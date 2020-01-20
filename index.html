@@ -2980,13 +2980,15 @@
          resultsEl.removeChild(resultsEl.firstChild);
        }
        var q = search.value.trim().toLowerCase();
-       var results = games.filter(game => game.toLowerCase().includes(q));
-       var li;
-       results.forEach(result => {
-         li = document.createElement('li');
-         li.appendChild(document.createTextNode(result));
-         resultsEl.appendChild(li);
-       });
+       if (q.length >= 3) {
+         var results = games.filter(game => game.toLowerCase().includes(q));
+         var li;
+         results.forEach(result => {
+           li = document.createElement('li');
+           li.appendChild(document.createTextNode(result));
+           resultsEl.appendChild(li);
+         });
+         }
      }
 
      search.addEventListener('input', dosearch);
