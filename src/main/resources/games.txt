@@ -1,0 +1,1479 @@
+1 10 Yard Fight <Japan> 1480 Mega Zone <Konami set 1>
+2 1941 1481 Megadon
+3 1941 - Counter Attack <Japan> 1482 Megatack
+4 1942 1483 Meikyu Jima <Japan>
+5 1942 <set 2> 1484 Meikyuu Hunter G <Japan>
+6 1942 <set 3> 1485 Mello Yello Q*bert
+7 1943 1486 Mercs <US 900608>
+8 1943: Midway Kaisen <Japan> 1487 Mercs <US>
+9 1943kai 1488 Mercs <World>
+10 1944 1489 Merlins Money Maze
+11 1945 1490 Meta Fox
+12 1945k III 1491 Metal Black <Japan>
+13 1945Plus 1492 Metal Black <World>
+14 19xx 1493 Metal Clash <Japan>
+15 19XX: The War Against Destiny <Asia 951207> 1494 Metal Slug - Super Vehicle-001
+16 19XX: The War Against Destiny <Hispanic 951218> 1495 Metal Slug 2 - Super Vehicle-001/II
+17 19XX: The War Against Destiny <Japan 951207> 1496 Metal Slug 3
+18 2 On 2 Open Ice Challenge <rev 1.21> 1497 Metal Slug 3 <not encrypted>
+19 2020 Super Baseball <set 1> 1498 Metal Slug 4
+20 2020 Super Baseball <set 2> 1499 Metal Slug 4 Plus
+21 2020 Super Baseball <set 3> 1500 Metal Slug 4 Plus <bootleg>
+22 3 Count Bout / Fire Suplex 1501 Metal Slug 5
+23 3D Battle Arena Toshinden 2 (JP) 1502 Metal Slug 6
+24 3D Battle Arena Toshinden 2 (US) 1503 Metal Slug X - Super Vehicle-001
+25 3D Beastorizer<US> 1504 Metamoqester
+26 3D Bloody Roar 2 1505 Meteorites
+27 3D Brave Blade 1506 Metro-Cross <set 2>
+28 3D Plasma Sword (US) 1507 Metro-Cross<set 1>
+29 3D Rival Schools (US) 1508 Mexico 86
+30 3D Sonic Wings Limited 1509 Michael Jackson's Moonwalker <bootleg>
+31 3D Soul Edge Ver. II 1510 Michael Jackson's Moonwalker <set 3, World>
+32 3D Star Gladiator 2 1511 Midnight<Japan>
+33 3D Street Fighter EX2PLUS<US> 1512 Midnight<US>
+34 3D Strider Hiryu 2 1513 Midnight<World>
+35 3D Tekken 1 1514 Mighty Monkey
+36 3D Tekken 2 1515 Mighty Warriors
+37 3D Tetris The Grand Master 1516 Mighty! Pang <Japan 001011>
+38 3D Toshinden 2 1517 Mikie
+39 3D Xevious 3D/G 1518 Mikie <High School Graffiti>
+40 4 En Raya 1519 Millipede
+41 4-D Warriors 1520 Millpac
+42 600 1521 Minefield
+43 64th. Street - A Detective Story <Japan> 1522 Mini Golf <set 1>
+44 64th. Street - A Detective Story <World> 1523 Mini Golf <set 2>
+45 720 Degrees <rev 4> 1524 Minivader
+46 800 Fathoms 1525 Minky Monkey
+47 88 Games! 1526 Minnasanno Okagesamadesu
+48 99 The Last War 1527 Mirai Ninja <Japan>
+49 99: The Last War 1528 Missile Command <set 1>
+50 99: The Last War <Kyugo> 1529 Missile Command <set 2>
+51 A.B. Cop 1530 Missing in Action <Japan>
+52 Abunai Houkago - Mou Matenai <Japan 890325> 1531 Missing in Action <version S>
+53 Acrobatic Dog_Fight 1532 Missing in Action <version T>
+54 Act-Fancer <World 1> 1533 Mission 660 <bootleg>
+55 Act-Fancer <World 2> 1534 Mission 660 <Japan>
+56 Act-Fancer Cybernetick Hyper Weapon <Japan revision 1> 1535 Mission 660 <US>
+57 Action Fighter 1536 Mister Viking
+58 Adventure Quiz 2 Hatena Hatena no Dai-Bouken <Japan 900228> 1537 Mister Viking <Japan>
+59 Aero Fighters 1538 Mizubaku Daibouken <Japan>
+60 Aero Fighters 2 1539 Mobile Suit Gundam
+61 Aero Fighters 3 1540 Mobile Suit Gundam <Japan>
+62 After Burner <Japan> 1541 Mobile Suit Gundam EX Revue
+63 After Burner II After Burner II Sega 1542 Mogura Desse
+64 Aggressors of Dark Kombat / Tsuukai GANGAN Koushinkyoku 1543 Momoko 120%
+65 Ah Eikou no Koshien <Japan> 1544 Money Puzzle Exchanger
+66 Air Buster 1545 Monkey Donkey
+67 Air Buster: Trouble Specialty Raid Unit <Japan> 1546 Monster Bash
+68 Air Duel <Japan> 1547 Monster Slider <Japan>
+69 Air Gallet <Taiwan> 1548 Monte Carlo
+70 Airwolf 1549 Moon Alien
+71 Ajax 1550 Moon Alien Part 2
+72 Ajax <Japan> 1551 Moon Alien Part 2 <older version>
+73 Akkanvader <Japan> 1552 Moon Base
+74 Akuma-Jou Dracula<version N> 1553 Moon Cresta <Galaxian hardware>
+75 Akuma-Jou Dracula<version P> 1554 Moon Cresta <Gremlin>
+76 Ales no Tsubasa <Japan> 1555 Moon Cresta <Nichibutsu, unencrypted>
+77 Alex Kidd: The Lost Stars <set 1> 1556 Moon Cresta <Nichibutsu>
+78 Alex Kidd: The Lost Stars <set 2, unprotected> 1557 Moon Cresta<Set1>
+79 Alien Invasion Part II 1558 Moon Cresta<Set2>
+80 Alien Storm <set 1, Japan, 2 Players> 1559 Moon Patrol
+81 Alien Storm <set 2, US, 3 Players> 1560 Moon Patrol <Williams>
+82 Alien Storm <set 3, World, 3 Players> 1561 Moon Quasar
+83 Alien Syndrome <set 1, System 16A> 1562 Moon Shuttle <Japan>
+84 Alien Syndrome <set 2, System 16A> 1563 Moon Shuttle <US?>
+85 Alien Syndrome <set 3, System 16B> 1564 Moonwar
+86 Alien Syndrome <set 4, System 16B, unprotected> 1565 More More
+87 Alien vs. Predator 1566 More More Plus
+88 Aliens <Japan set 2> 1567 Mortal Kombat <rev 4.0 T-Unit 02/11/93>
+89 Aliens <Japan> 1568 Mortal Kombat <rev 5.0 T-Unit 03/19/93>
+90 Aliens <US> 1569 Mortal Kombat 3 <rev 2.1>
+91 Aliens <World set 1> 1570 Mortal Kombat II <rev L3.1>
+92 Aliens <World set 2> 1571 Mortal Kombat II <rev L3.2 <European>>
+93 Aliens <World set 3> 1572 Mortal Kombat II <rev L4.2, hack>
+94 Alley Master 1573 Mortal Kombat II <rev L9.1, hack>
+95 Alligator Hunt <unprotected> 1574 Mortal Kombat II Challenger <hack>
+96 Alpha Mission II / ASO II - Last Guardian 1575 Mosaic
+97 Alpha One <prototype, 3 lives> 1576 Mosaic <Fuuki>
+98 Alpha One <prototype, 5 lives> 1577 MotoRace USA
+99 Alpine Ski <set 1> 1578 Motos
+100 Alpine Ski <set 2> 1579 Mouser
+101 Altered Beast <set 4, MC-8123B 317-0066> 1580 Mouser <Cosmos>
+102 Altered Beast <set 5, 8751 317-0076> 1581 Mr. Do!
+103 Altered Beast <Version 1> 1582 Mr. Do! <bugfixed>
+104 Ambush 1583 Mr. Do! <Taito>
+105 Ambush <Tecfri> 1584 Mr. Do's Castle <set 1>
+106 Ambush <Volt Elec co-ltd> 1585 Mr. Do's Wild Ride
+107 Ameisenbaer <German> 1586 Mr. Du!
+108 American Horseshoes <US> 1587 Mr. Goemon<Japan>
+109 American Speedway <set 1> 1588 Mr. Jong <Japan>
+110 American Speedway <set 2> 1589 Mr. Kougar <bootleg>
+111 Amidar 1590 Mr. Kougar <earlier>
+112 Amidar <Olympia> 1591 Mr. Lo!
+113 Amidar <Scramble hardware> 1592 Mr. TNT
+114 Amidar <Stern> 1593 Mr.Kougar
+115 Amigo 1594 Ms. Pac Attack
+116 Andro Dunos 1595 Ms. Pac-Man
+117 Angel Kids <Japan> 1596 Ms. Pac-Man <bootleg>
+118 Anteater 1597 Ms. Pac-Man <with speedup hack>
+119 APB - All Points Bulletin <French> 1598 Ms. Pacman Champion Edition / Super Zola Pac Gal
+120 APB - All Points Bulletin <German> 1599 Ms. Pac-Man Plus
+121 APB - All Points Bulletin <rev 1> 1600 Mug Smashers
+122 APB - All Points Bulletin <rev 2> 1601 Multi 5 / New Multi Game 5
+123 APB - All Points Bulletin <rev 3> 1602 Multi Champ <Korea>
+124 APB - All Points Bulletin <rev 4> 1603 Multi Champ <Korea>
+125 APB - All Points Bulletin <rev 5> 1604 Musashi Ganryuuki
+126 APB - All Points Bulletin <rev 6> 1605 Muscle Bomber Duo - Ultimate Team Battle <World>
+127 APB - All Points Bulletin <rev 7> 1606 Mutant Fighter
+128 Appoooh 1607 Mutant Fighter <World Rev 3, EM-4>
+129 Aqua Jack <World> 1608 Mutation Nation
+130 Arabian 1609 MVP <set 2, US>
+131 Arabian <Atari> 1610 MX5000
+132 Arabian Magic <Japan> 1611 My Hero<Korea>
+133 Arabian Magic <US> 1612 My Hero<US>
+134 Arabian Magic <World> 1613 Mysterious Stones - Dr. Kick in Adventure
+135 Arbalester 1614 Mysterious Stones<set 1>
+136 Arcade Classics <prototype> 1615 Mystic Marathon
+137 Arch Rivals <rev 2.0> 1616 Mystic Riders <World>
+138 Arch Rivals <rev 4.0> 1617 Mystic Warriors <ver EAA>
+139 Area 88 <Japan> 1618 NAM-1975
+140 Argus <Gottlieb, prototype> 1619 Name That Tune
+141 Argus Argus<Jaleco license> 1620 Naname de Magic! <Japan>
+142 Argus no Senshi <Japan> 1621 Narc <rev 3.20>
+143 Ark Area 1622 Narc <rev 7.00>
+144 Arkanoid - Revenge of DOH <Japan> 1623 Nastar Warrior <US>
+145 Arkanoid - Revenge of DOH <US> 1624 Nastar<World>
+146 Arkanoid - Revenge of DOH <World> 1625 NATO Defense
+147 Arkanoid <Game Corporation bootleg> 1626 Naughty Boy
+148 Arkanoid <US> 1627 Naughty Boy <bootleg>
+149 Arkanoid <World> 1628 Naughty Boy <Cinematronics>
+150 Arkanoid Returns <Japan> 1629 Naughty Mouse <set 2>
+151 Arm Wrestling 1630 Naughty Mouse<set1>
+152 Armed Formation 1631 NBA Hangtime <rev L1.1 04/16/96>
+153 Armed Police Batrider 1632 NBA Jam <rev 3.01 04/07/93>
+154 Armed Police Batrider <Japan, version A> 1633 NBA Jam TE <rev 4.0 03/23/94>
+155 Armed Police Batrider <Korea, version B> 1634 NBA Maximum Hangtime <rev 1.03 06/09/97>
+156 Armor Attack 1635 Neck-n-Neck <v1.2>
+157 Armor Attack <prototype> 1636 Nekketsu Kouha Kunio-kun
+158 Armor Attack <Rock-ola> 1637 Nekketsu Kouha Kunio-kun <Japan>
+159 Armored Car <set 1> 1638 Nekketsu Koukou Dodgeball Bu <Japan bootleg>
+160 Armored Car <set 2> 1639 Nemesis
+161 Armored Warriors 1640 Nemesis <World?>
+162 Armored Warriors <US 941024> 1641 Nemo
+163 Art of Fighting 1642 Nemo <Japan 901120>
+164 Art of Fighting 2 1643 Neo Bomberman
+165 Art of Fighting 2 / Ryuuko no Ken 2 <set 2> 1644 Neo Drift Out - New Technology
+166 Art of Fighting 3 - The Path of the Warrior- Ryuuko no Ken Gaiden 1645 Neo Mr. Do!
+167 Ashura Blaster <Japan> 1646 Neo Turf Masters / Big Tournament Golf
+168 Ashura Blaster <US> 1647 Neo-Geo Cup '98 - The Road to the Victory
+169 ASO - Armored Scrum Object 1648 Neratte Chu
+170 Asterix <World ver. EAD> 1649 Net Wars
+171 Asterock 1650 New Puck-X
+172 Asteroids <bootleg on Lunar Lander hardware> 1651 New Rally X
+173 Asteroids <rev 1> 1652 NewPuc2<set1>
+174 Asteroids <rev 2> 1653 NewPuc2<set2>
+175 Asteroids Deluxe <rev 1> 1654 News
+176 Asteroids Deluxe <rev 2> 1655 Nibbler <set 1>
+177 Astro Battle <set 1> 1656 Night Slashers
+178 Astro Battle <set 2> 1657 Night Stocker
+179 Astro Blaster <version 3> 1658 Night Striker <US>
+180 Astro Chase <Max-A-Flex> 1659 Night Warriors: Darkstalkers' Revenge
+181 Astro Combat 1660 Nightmare in the Dark
+182 Astro Fighter <set 1> 1661 Nightmare in the Dark <decrypted>
+183 Astro Fire 1662 Ninja Baseball Batman <US>
+184 Astro Invader 1663 Ninja Clowns
+185 Asuka & Asuka<Japan> 1664 Ninja Combat
+186 Asura Blade-Sword of Dynasty<japan> 1665 Ninja Combat <set 2>
+187 Asylum <prototype> 1666 Ninja Commando
+188 Ataxx <Japan> 1667 Ninja Emaki <US>
+189 Ataxx <set 1> 1668 Ninja Gaiden <US>
+190 Ataxx <set 2> 1669 Ninja Kids <World>
+191 Athena 1670 Ninja Master's - haoh-ninpo-cho
+192 Atlant Olimpic 1671 Ninja Princess <128k Ver.>
+193 Atomic Point <Korea> 1672 Ninja Spirit
+194 Atomic Robo-kid 1673 Ninja-Kid II <set 1>
+195 Aurail <set 1, Japan> 1674 Ninja-Kid II <set 2>
+196 Aurail <set 1> 1675 Ninja-Kid II <set 3>
+197 Aurail <set 2, World> 1676 Ninjakun Majou no Bouken
+198 Avengers <US set 2> 1677 Nitro Ball
+199 Avengers In Galactic Storm <US> 1678 Niyanpai <Japan>
+200 Avengers<US set 1> 1679 Noboranka
+201 Avenging Spirit 1680 NONAME
+202 Azurian Attack 1681 Nostradamus
+203 Back Street Soccer 1682 Nova 2001 <Japan>
+204 Bad Dudes vs. Dragonninja <US> 1683 Nova 2001 <US>
+205 Bad lands 1684 Oh My God! <Japan>
+206 Bagman 1685 Omega
+207 Bagman <Stern set 1> 1686 Omega Fighter
+208 Bagman <Stern set 2> 1687 Omega Race
+209 Bakutotsu Kijuutei 1688 One + Two
+210 Bal Cube 1689 Oni - The Ninja Master <Japan>
+211 Balloon Brothers 1690 Operation Ragnagard / Shin-Oh-Ken
+212 Bang Bang Ball <v1.05> 1691 Operation Thunderbolt <Japan>
+213 Bang Bead 1692 Operation Thunderbolt <US>
+214 Bang! 1693 Operation Thunderbolt <World>
+215 Bank Panic 1694 Orbitron
+216 Baraduke <set 1> 1695 Ordyne <Japan>
+217 Baraduke <set 2> 1696 Ordyne <Japan>
+218 Barrier 1697 Oriental Legend <ver.112, Chinese Board>
+219 Baseball Stars 2 1698 Oriental Legend <ver.112>
+220 Baseball Stars Professional 1699 Oriental Legend <ver.126>
+221 Basketball 1700 Othello Derby <Japan>
+222 Batman 1701 Out Run <set 1>
+223 Batman Part 2 1702 Out Run <set 2>
+224 Battlantis 1703 Out Zone <set 1>
+225 Battlantis <Japan> 1704 Out Zone <set 2>
+226 Battle Bakraid - Unlimited version <Japan> <Tue Jun 8 1999> 1705 OutRunners <US>
+227 Battle Bakraid <Japan> <Wed Apr 7 1999> 1706 OutRunners <World>
+228 Battle Chopper 1707 Over Top
+229 Battle Circuit 1708 Ozma Wars <set 1>
+230 Battle Circuit <Japan 970319> 1709 Ozma Wars <set 2>
+231 Battle Cruiser M-12 1710 Ozon I
+232 Battle Field <Japan> 1711 P.O.W. - Prisoners of War <US>
+233 Battle Flip Shot 1712 P-47 - The Phantom Fighter <World>
+234 Battle Garegga - Type 2 <Denmark / China> 1713 P-47 Aces
+235 Battle Garegga <Austria / Hong Kong> 1714 Pac & Pal
+236 Battle Garegga <Austria / Hong Kong> <Sat Feb 3 1996> 1715 Pac &amp
+237 Battle Garegga <Europe / USA / Japan / Asia> 1716 Pac-Gal
+238 Battle K-Road 1717 Pac-Land <Midway>
+239 Battle Lane! Vol. 5 <set 1> 1718 Pac-Land <set 1>
+240 Battle Lane! Vol. 5 <set 2> 1719 Pac-Land <set 2>
+241 Battle Lane! Vol. 5 <set 3> 1720 Pac-Land <set 3>
+242 Battle of Atlantis <set 1> 1721 Pac-Man <Galaxian hardware>
+243 Battle of Atlantis <set 2> 1722 Pac-Man <Hearts>
+244 Battle Rangers <World> 1723 Pac-Man <Midway, harder>
+245 Battle Toads 1724 Pac-Man <Midway, with speedup hack>
+246 Battle Wings 1725 Pac-Man Plus
+247 Battle Wings 1726 Pac-Man<Midway>
+248 Battlecry 1727 Pac-Mania
+249 Bay Route <set 2, Japan> 1728 Pac-Mania <Japan>
+250 Bay Route <set 3, World> 1729 Paddle Mania
+251 Beach Festival World Championship 1997 1730 Pairs <Nichibutsu> <Japan 890822>
+252 Beast Busters <World ?> 1731 Pairs Love
+253 Beastie Feastie 1732 Pairs<Systenm ten>
+254 BeatHead<prototype> 1733 Palamedes<Japan>
+255 Bells & Whistles 1734 Pandora's Palace
+256 Beraboh Man<Japan version B> 1735 Pang <bootleg>
+257 Beraboh Man<Japan version C> 1736 Pang <World>
+258 Bermuda Triangle <Japan> 1737 Pang Poms
+259 Berzerk <set 1> 1738 Pang Poms <Mitchell>
+260 Berzerk <set 2> 1739 Pang! 3 <Euro 950511>
+261 Best League 1740 Pang! 3 <Japan 950511>
+262 Big Bucks 1741 Panic Bomber
+263 Big Event Golf 1742 Paperboy <rev 3>
+264 Big Karnak 1743 Parodius DA! <Japan>
+265 Big Kong 1744 Parodius DA!<World>
+266 Big Striker 1745 Pass
+267 Bigfoot Bonkers 1746 Passing Shot <2 Players>
+268 Billiard Academy Real BREAK 1747 Passing Shot <2 Players> <bootleg>
+269 Bio Attack 1748 Passing Shot <Japan, 4 Players>
+270 Bio-hazard Battle <Mega Play> 1749 Peggle
+271 Biomechanical Toy <unprotected> 1750 Peggle <Trackball, v1.0>
+272 Bionic Commando <US set 2> 1751 Pengo
+273 Bionic Commando<US set 1> 1752 Pengo <bootleg>
+274 Birdie King 1753 Pengo <set 4>
+275 Birdie King 2 1754 Penguin Brothers <Japan>
+276 Birdie King 3 1755 Penguin-Kun Wars <Japan>
+277 Black Dragon 1756 Penguin-Kun Wars <US>
+278 Black Dragon <bootleg> 1757 Penta
+279 Black Hole 1758 Perfect Billiard
+280 Black Panther 1759 Performan<Japan>
+281 Black Tiger 1760 Performan<US>
+282 Black Tiger <bootleg> 1761 Peter Pack-Rat
+283 Blade Master <World> 1762 Peter Pepper's Ice Cream Factory <Cassette, set 1>
+284 Blades of Steel <version E> 1763 Peter Pepper's Ice Cream Factory <Cassette, set 2>
+285 Blades of Steel <version T> 1764 Phantasm <Japan>
+286 Blandia 1765 Phantomas
+287 Blandia <prototype> 1766 Phelios <Japan>
+288 Blast off<Japan> 1767 Phoenix <Amstar>
+289 Blasted 1768 Phoenix <Taito>
+290 Blaster 1769 Photo Y2K
+291 Blasteroids <German, rev 2> 1770 Phozon <Japan>
+292 Blasteroids <rev 4> 1771 Pickin'
+293 Blasteroids <with heads> 1772 Pigout
+294 Blaze On<Japan> 1773 Pigskin 621AD
+295 Blazer <Japan> 1774 Pinball Action<set1>
+296 Blazing Star 1775 Pinbo
+297 Block <Game Corporation bootleg> 1776 Ping Pong
+298 Block Block <bootleg> 1777 Pioneer Balloon
+299 Block Block <Japan 910910> 1778 Pipe Dream <Japan>
+300 Block Block <World 910910> 1779 Pipe Dream<US>
+301 Block Block <World 911106 Joystick> 1780 Pipi & Bibis / Whoopee!!
+302 Block Carnival 1781 Pipi &amp
+303 Block Hole 1782 Piranha
+304 Block Out <Japan> 1783 Piranha <hack>
+305 Block Out <set 1> 1784 Piranha <older>
+306 Block Out <set 2> 1785 Pirate Pete
+307 BlockBuster 1786 Pirate Ship Higemaru
+308 Blocken <Japan> 1787 Pirate Treasure
+309 Blomby Car 1788 Pirates
+310 Blomby Car <not encrypted> 1789 Pisces
+311 Blood Bros. 1790 Pistol Daimyo no Bouken<Japan>
+312 Blood Storm <v2.20> 1791 Pit Fighter <Japan, 2 players>
+313 Blood Storm <v2.22> 1792 Pit Fighter <rev 5>
+314 Bloxeed <C System> 1793 Pitfall II
+315 Bloxeed <Japan> 1794 Pitfall<not encrypted>
+316 Bloxeed <US, C System> 1795 PlayBall! <prototype>
+317 Blue Hawk 1796 Pleasure Goal / Futsal - 5 on 5 Mini Soccer
+318 Blue Print <Jaleco> 1797 Plotting <World set 1>
+319 Blue Print <Midway> 1798 Plotting <World set 2>
+320 Blue's Journey 1799 Plump Pop <Japan>
+321 Bobble Bobble 1800 Plus Alpha
+322 Body Slam <8751 317-unknown> 1801 Pnickies <Japan>
+323 Boggy '84 1802 Pocket Fighter <Japan 970904>
+324 Bom Jack 1803 Poitto!
+325 Bomb Bee 1804 Poker Ladies <Leprechaun ver. 401>
+326 Bomb Jack <set 2> 1805 Polaris <set 1>
+327 Bomber Man World <World> 1806 Pole Position
+328 Bombjack Twin 1807 Pole Position <Atari version 2>
+329 Bonanza Bros 1808 Pole Position II
+330 Bone Crusher 1809 Pole Position II <Atari>
+331 Bongo 1810 Police Trainer <Rev 1.3>
+332 Bonze Adventure <World> 1811 Pollux Dooyong
+333 Bonze Adventure<US> 1812 Poly-Play
+334 Boogie Wings <Asia v1.5, 92.12.07> 1813 Pomping World <Japan>
+335 Boogie Wings <Euro v1.5, 92.12.07> 1814 Ponpoko
+336 Boomer Rang'r / Genesis 1815 Ponpoko <Venture Line>
+337 Boot Camp 1816 Pootan
+338 Borderline <bootleg> 1817 Pooyan
+339 Borench 1818 Pooyan <Stern>
+340 Botanic 1819 Pop Bingo
+341 Bottom of the Ninth <version N> 1820 Pop Flamer <hack?>
+342 Bottom of the Ninth <version T> 1821 Pop Flamer <not protected>
+343 Boulder Dash <Max-A-Flex> 1822 Pop Flamer <protected>
+344 Boulder Dash<Japan> 1823 Pop 'n Bounce / Gapporin
+345 Boulder Dash<World> 1824 Pop 'N Pop <World>
+346 Bouncing Balls 1825 Popeye <revision D not protected>
+347 Bowl-O-Rama 1826 Popeye <revision D>
+348 Boxing Bugs 1827 Popeye <revision F>
+349 Boxy Boy <US> 1828 Popeye<bootleg>
+350 Bradley Trainer 1829 Popper <Hard Head bootleg>
+351 Brain 1830 Port Man
+352 Break Thru <US> 1831 Poto Poto <Japan>
+353 Breakers 1832 Pound for Pound <World>
+354 Breakers Revenge 1833 Power Drift
+355 Breywood 1834 Power Drift <Japan>
+356 Bristles <Max-A-Flex> 1835 Power Drive
+357 Brix 1836 Power Goal <World>
+358 Brute Force 1837 Power Instinct <USA bootleg>
+359 Bubble 2000 1838 Power Instinct 2 <USA>
+360 Bubble Bobble 1839 Power Instinct Legends <USA>
+361 Bubble Bobble <older> 1840 Power Play
+362 Bubble Bobble <US with mode select> 1841 Power Spikes I
+363 Bubble Bobble <US> 1842 Power Spikes II
+364 Bubble Bobble II <Ver 2.5O 1994/10/05> 1843 Power Surge
+365 Bubble Memories - The Story Of Bubble Bobble 3 <World> 1844 Powered Gear: Strategic Variant Armor Equipment <Japan 941024>
+366 Bubble Memories: The Story Of Bubble Bobble III <Ver 2.4O 1996/02/15> 1845 Prebillian
+367 Bubble Symphony <Europe> 1846 Prehistoric Isle 2
+368 Bubble Symphony <Japan> 1847 Prehistoric Isle in 1930 <US>
+369 Bubble Symphony <US> 1848 Prehistoric Isle in 1930 <World>
+370 Buccaneers <set 1> 1849 Premier Soccer <Europe ver. EAB>
+371 Buck Rogers: Planet of Zoom 1850 Pretty Soldier Sailor Moon <95/03/22>
+372 Buck Rogers: Planet of Zoom <not encrypted> 1851 Pretty Soldier Sailor Moon <95/03/22B>
+373 Bucky O'Hare <US version UA> 1852 Prime Time Fighter <US new version>
+374 Bucky O'Hare <World version EA> 1853 Prime Time Fighter <US old version>
+375 Bullfight 1854 Primella
+376 Bump 'n' Jump 1855 Progear <US 010117>
+377 Burger Time <Data East set 1> 1856 Progress
+378 Burger Time <Data East set 2> 1857 Psychic 5
+379 Burger Time <Midway> 1858 Psycho Soldier <US>
+380 Burglar X 1859 Psycho-Nics Oscar <Japan revision 2>
+381 Burnin' Rubber 1860 Psycho-Nics Oscar <US>
+382 Burning Fight <set 1> 1861 Puchi Carat <Ver 2.02J 1997/10/29>
+383 Burning Fight <set 2> 1862 Puchi Carat <World>
+384 Burning Force <Japan> 1863 Puckman <Falcom?>
+385 Bust-A-Move Again 1864 PuckMan <Japan set 1 with speedup hack>
+386 Bust-A-Move Again <US> 1865 PuckMan <Japan set 1, Probably Bootleg>
+387 Buster Bros <US> 1866 Puckman Pockimon Genie 2000
+388 Butasan <Japan> 1867 PuliRula<Japan>
+389 B-Wings <Japan> 1868 PuliRula<World>
+390 Cabal <US set 2> 1869 Pulsar
+391 Cabal<US-set1> 1870 Pulstar Pulstar Aicom
+392 Cachat <Japan> 1871 Punch-Out!
+393 Cadash <Italy> 1872 Punk Shot <Japan 2 Players>
+394 Cadash<France> 1873 Punk Shot <US 2 Players>
+395 Cadash<Italy> 1874 Punk Shot<set4>
+396 Cadash<Japan> 1875 Pururun
+397 Cadash<US> 1876 Pushman
+398 Cadash<World> 1877 Pushman <Korea, set 1>
+399 Cadillacs and Dinosaurs <US 930201> 1878 Puyo Puyo <Japan>
+400 Cadillacs and Dinosaurs <World> 1879 Puyo Puyo <Japan>
+401 Cadillacs Kyouryuu-Shinseiki <Japan 930201> 1880 Puyo Puyo <World>
+402 Caliber 50 1881 Puzz Loop <Europe>
+403 Calipso 1882 Puzz Loop 2 <Japan 010205>
+404 Calorie Kun vs Moguranian 1883 Puzzle Bobble / Bust-A-Move <Neo-Geo> <set 1>
+405 Calorie Kun vs Moguranian <bootleg> 1884 Puzzle Bobble / Bust-A-Move <Neo-Geo> <set 2>
+406 Camel Try <US> 1885 Puzzle Bobble <Japan, B-System>
+407 Cameltry <Japan> 1886 Puzzle Bobble 2 <Japan>
+408 Canyon Bomber 1887 Puzzle Bobble 2 <World>
+409 Canyon Bomber <prototype> 1888 Puzzle Bobble 2X <Ver 2.2J 1995/11/11>
+410 Capcom Baseball <Japan> 1889 Puzzle Bobble 3 <Japan>
+411 Capcom Bowling <set 1> 1890 Puzzle Bobble 3 <US>
+412 Capcom Bowling <set 2> 1891 Puzzle Bobble 3 <World>
+413 Capcom Bowling <set 3> 1892 Puzzle Bobble 4 <Japan>
+414 Capcom Bowling <set 4> 1893 Puzzle Bobble 4 <US>
+415 Capcom Sports Club <Asia 970722> 1894 Puzzle Bobble 4 <World>
+416 Capcom Sports Club <Euro 970722> 1895 Puzzle Club<Japan>
+417 Capcom Sports Club <Japan 970722> 1896 Puzzle De Bowling <Japan>
+418 Captain America 1897 Puzzle De Pon
+419 Captain America <UK Rev 4> 1898 Puzzle De Pon <Visco license>
+420 Captain America and The Avengers <Asia Rev 1.0> 1899 Puzzle King <bootleg>
+421 Captain America and The Avengers <Japan Rev 0.2> 1900 Puzzled / Joy Joy Kid
+422 Captain America and The Avengers <US Rev 1.6> 1901 Puzzli
+423 Captain America and The Avengers <US Rev 1.9> 1902 Puzznic <Japan>
+424 Captain Commando <Japan 911202> 1903 Pyros <US>
+425 Captain Commando <US 910928> 1904 Q*bert <Japan>
+426 Captain Commando <World> 1905 Q*bert <US set 1>
+427 Captain Silver <Japan> 1906 Q*bert's Qubes
+428 Captain Tomaday 1907 Qix <set 1>
+429 Car Action 1908 Qix II <Tournament>
+430 Carnival <cocktail> 1909 Quantum <rev 2>
+431 Carnival <upright> 1910 Quartet <8751 317-unknown>
+432 Carrier Air Wing <US 901012> 1911 Quartet <Japan, 8751 317-unknown>>
+433 Carrier Air Wing <World> 1912 Quartet 2 <8751 317-unknown>
+434 Cascade 1913 Quartet 2 <Japan, 8751 317-unknown>
+435 Catch-22 <version 8.0> 1914 Quarth <Japan>
+436 Caterpillar 1915 Quester <Japan>
+437 Caterpillar Pacman Hack 1916 Quiz & Dragons
+438 Cavelon 1917 Qwak <prototype>
+439 Caveman Ninja <US> 1918 Rabbit Punch <US>
+440 Caveman Ninja <World revision 0> 1919 Rabio Lepus <Japan>
+441 Caveman Ninja <World revision 3> 1920 Racing Hero
+442 Centipede <1 player, timed> 1921 Rack + Roll
+443 Centipede <bootleg> 1922 Radical Radial
+444 Centipede <revision 2> 1923 Rafflesia
+445 Centipede <revision 3> 1924 Rage Of The Dragons
+446 Cerberus 1925 Raiden Seibu Kaihatsu
+447 Chack'n Pop 1926 Raiders5
+448 Challenger 1927 Raiders5 <Japan>
+449 Champion Baseball 1928 Rail Chase <Japan>
+450 Champion Boxing 1929 Raimais<Japan>
+451 Champion Golf 1930 Rainbow Islands <Extra>
+452 Champion Golf <bootleg Set 1> 1931 Rainbow Islands <new version>
+453 Champion Pro Wrestling 1932 Rainbow Islands <old version>
+454 Championship Sprint <French> 1933 Rally Bike/Dash Yarou Rally Bike
+455 Championship Sprint <German, rev 1> 1934 Rally X
+456 Championship Sprint <German, rev 2> 1935 Rally X <Midway>
+457 Championship Sprint <rev 1> 1936 Rambo III <Europe set 1>
+458 Championship Sprint <rev 2> 1937 Rampage <revision 3>
+459 Championship Sprint <rev 3> 1938 Rampage: World Tour <rev 1.3>
+460 Championship Sprint <Spanish, rev 1> 1939 Rampart <Joystick>
+461 Championship Sprint <Spanish, rev 2> 1940 Rampart <Trackball>
+462 Change Air Blade <Japan> 1941 Rastan Saga <Japan>
+463 Changes 1942 Rastan Saga 2 <Japan>
+464 Changes <EME license> 1943 Rastan<set1>
+465 Chase H.Q. <World> 1944 Rastan<set2>
+466 Check Man 1945 Rastan<World>
+467 Check Man <Japan> 1946 Rayforce <US>
+468 Cheese Chase 1947 Reactor
+469 Chelnov - Atomic Runner <Japan> 1948 Real Bout Fatal Fury / Real Bout Garou Densetsu
+470 Chelnov - Atomic Runner <US> 1949 Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers
+471 Chelnov - Atomic Runner <World> 1950 Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - the newcomers <set 2>
+472 Cheyenne <version 1.0> 1951 Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special
+473 Chicken Shift 1952 Recalhorn <Prototype>
+474 Chiki Chiki Boys <Japan> 1953 RecordBreaker
+475 Chiller <version 3.0> 1954 Red Baron
+476 China Gate <US> 1955 Red Robin
+477 China Town <Japan> 1956 Redline Racer <2 players>
+478 Chinese Hero 1957 Regulus <New Ver.>
+479 Chinese Hero <older> 1958 Reikai Doushi<Japan>
+480 Choplifter<alternate> 1959 Relief Pitcher <set 1>
+481 Choplifter<bootleg> 1960 Relief Pitcher <set 2>
+482 Chopper I 1961 Renegade <US>
+483 Chuka Taisen <Japan> 1962 Renju Kizoku
+484 Chuka Taisen <US> 1963 Repulse
+485 Chuka Taisen <World> 1964 Rescue
+486 Circus 1965 Rescue Raider
+487 Circus Charlie 1966 Rescue Raider <Stand-Alone>
+488 Circus Charlie <Centuri, earlier> 1967 Return of the Invaders
+489 Circus Charlie <Centuri> 1968 Return of the Invaders <bootleg set 1>
+490 Circus Charlie <no level select> 1969 Return of the Jedi
+491 City Bomber <World> 1970 Rezon
+492 City Connection 1971 Ribbit!
+493 City Connection <set 2> 1972 Riddle of Pythagoras <Japan>
+494 Clash-Road 1973 Riding Hero <set 1>
+495 Clash-Road <Status license> 1974 Riding Hero <set 2>
+496 Clay Pigeon <version 2.0> 1975 Rim Rockin' Basketball <V2.2>
+497 Cleopatra Fortune <Japan> 1976 Ring Fighter <set 1>
+498 Clutch Hitter <set 2, US> 1977 Ring Fighter <set 2>
+499 Cobra-Command<Japan> 1978 Ring King <US set 1>
+500 Cobra-Command<World revision 5> 1979 Ring King <US set 2>
+501 Colony 7 <set 1> 1980 Ring King <US set 3>
+502 Colony 7 <set 2> 1981 Ring King <US, Woodplace license>
+503 Columns <Japan> 1982 Ring no Ohja <Japan 2 Players ver. N>
+504 Columns <US> 1983 Ring of Destruction: Slammasters II <Euro 940902>
+505 Columns II <Japan> 1984 Riot
+506 Columns II: The Voyage Through Time 1985 Riot City
+507 Combat <version 3.0> 1986 Rip Off
+508 Combat School <Japan trackball> 1987 River Patrol <bootleg>
+509 Combat School <joystick> 1988 Road Blasters <cockpit, rev 2>
+510 Combat School <trackball> 1989 Road Blasters <upright, German, rev 3>
+511 Commando <US> 1990 Road Blasters <upright, rev 4>
+512 Commando<World> 1991 Road Fighter <set 2>
+513 Competition Golf Final Round <old version> 1992 Road Fighter<set1>
+514 Competition Golf Final Round <revision 3> 1993 Road Runner
+515 Condor 1994 Robby Roto
+516 Congo Bongo 1995 Robo Army
+517 Contra <Japan bootleg> 1996 Robo Wres 2001
+518 Contra <US bootleg> 1997 Robo Wres 2001 <bootleg>
+519 Contra <US> 1998 Robocop <World revision 4>
+520 Contra<Japan> 1999 Robocop 2 <Japan>
+521 Cookie & Bibi 2000 Robocop 2 <US>
+522 Cookie and Bibi 2 2001 Robocop 2 <World>
+523 Coors Light Bowling 2002 Robocop<Japan>
+524 Cop 01 <set 1> 2003 Robocop<US revision 0>
+525 Cop 01 <set 2> 2004 Robocop<US revision 1>
+526 Cosmic Avenger 2005 Robotron <Solid Blue label>
+527 Cosmic Chasm <set 1> 2006 Rock Climber
+528 Cosmic Chasm <set 2> 2007 Rock 'n Rage <World?>
+529 Cosmic Cop <World> 2008 Rockman - The Power Battle <CPS1 Japan 950922>
+530 Cosmic Monsters 2009 Rockman 2: The Power Fighters <Japan 960708>
+531 Cosmo Gang the Video <Japan> 2010 Roc'n Rope
+532 Cosmo Gang the Video <US> 2011 Rod-Land <Japan bootleg>
+533 Cosmo Police 2012 Rod-Land <Japan>
+534 Cotocoto Cottong 2013 Rod-Land<Japan>
+535 Cotton <set 1, Japan> 2014 Rohga Armour Force <Asia/Europe v3.0>
+536 Cotton <set 2, US> 2015 Roller Jammer
+537 Cotton <set 3, World> 2016 Rollergames <US>
+538 Crackshot <version 2.0> 2017 Rolling Thunder <old version>
+539 Crater Raider 2018 Rolling Thunder 2
+540 Crazy Blocks 2019 Rolling Thunder 2 <Japan>
+541 Crazy Climber <US> 2020 Rolling Thunder<new version>
+542 Crazy Climber 2 <Japan> 2021 Rompers <Japan>
+543 Crazy Cop<Japan> 2022 Rougien
+544 Crazy Kong <Alternative levels> 2023 Round-Up
+545 Crazy Kong <Scramble hardware> 2024 Route 16
+546 Crazy Kong <set 1> 2025 R-Shark
+547 Crazy Kong <set 2> 2026 R-Type <Japan>
+548 Crazy Kong<Alca bootleg> 2027 R-Type II
+549 Crazy Kong<Jeutel bootleg> 2028 R-Type Leo <World rev. C>
+550 Crazy Kong<Orca bootleg> 2029 Rug Rats
+551 Crime City <World> 2030 Run Deep
+552 Crime City<Japan> 2031 Runark<Japan>
+553 Crime City<US> 2032 Runaway <prototype>
+554 Crime Fighters <Japan 2 Players> 2033 Rush & Crash
+555 Crime Fighters <US 4 players> 2034 Rush'n Attack <US>
+556 Crime Fighters <World 2 Players> 2035 Rygar <US set 1>
+557 Crime Fighters 2<ver. P> 2036 Ryu Jin <Japan>
+558 Croquis <Germany> 2037 RyuKyu <Japan>
+559 Cross Pang 2038 Ryuuha [BET] <Japan 871027>
+560 Crossbow <version 2.0> 2039 S.R.D. Mission
+561 Crossed Swords 2040 S.S. Mission
+562 Crouching Tiger Hidden Dragon 2003 <The King of Fighters 2001 bootleg> 2041 S.T.U.N. Runner <rev 5, Europe>
+563 Crouching Tiger Hiden Dragon 2042 S.T.U.N. Runner <rev 6>
+564 Crouching Tiger Hiden Dragon Plus 2043 S.T.U.N. Runner <rev 7, Japan>
+565 Crowns Golf 2044 S.T.U.N. Runner <upright prototype>
+566 Crowns Golf <set 2> 2045 Saboten Bombers <set 1>
+567 Crude Buster <Japan> 2046 Sai Yu Gou Ma Roku
+568 Crude Buster <World FU version> 2047 Sai Yu Gou Ma Roku <Japan>
+569 Crude Buster <World FX version> 2048 Saint Dragon
+570 Cruisin 2049 Salamander <version D>
+571 Crush Roller <Kural - bootleg?> 2050 Samurai Aces <World>
+572 Crush Roller <Kural Esco - bootleg?> 2051 Samurai Nihon-ichi <set 1>
+573 Crush Roller <Kural Samno> 2052 Samurai Shodown / Samurai Spirits
+574 Crystal Castles <version 2> 2053 Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen
+575 Crystal Castles <version 3> 2054 Samurai Shodown III / Samurai Spirits - Zankurou Musouken
+576 Crystal Castles <version 4> 2055 Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin
+577 Cuby Bop 2056 Samurai Shodown V
+578 Cue Brick <World version D> 2057 Sand Scorpion
+579 CueBrick 2058 Sangokushi II <Asia 921005>
+580 Curve Ball 2059 Sanrin San Chan <Japan>
+581 Cutie Q 2060 Sarge
+582 Cybattler 2061 Sasuke vs. Commander
+583 Cyberball 2072 <2 player, rev 1> 2062 Satan's Hollow <set 1>
+584 Cyberball 2072 <2 player, rev 2> 2063 Saturday Night Slam Masters <US>
+585 Cyberball 2072 <2 player, rev 3> 2064 Saturday Night Slam Masters <World>
+586 Cyberball 2072 <2 player, rev 4> 2065 Saturn
+587 Cyberbots: Fullmetal Madness <Japan 950420> 2066 Savage Bees
+588 Cyberbots: Fullmetal Madness <US 950424> 2067 Savage Reign / Fu'un Mokushiroku - kakutou sousei
+589 Cyber-Lip 2068 Schmeiser Robo <Japan>
+590 D. D. Crew <set 1, World, 4 Player> 2069 Scramble
+591 D. D. Crew <set 2, World, 2 Player> 2070 Scramble <Galaxian hardware>
+592 D. D. Crew <set 3, US, 4 Player> 2071 Scramble <Stern>
+593 D. D. Crew <set 5, Japan, 2 Player> 2072 Scramble Spirits
+594 Dai Makai-Mura <Japan> 2073 Scrambled Egg
+595 Dai Ressya Goutou<Japan> 2074 Screw Loose <prototype>
+596 Daioh 2075 SD GunDam
+597 Daisenpu <Japan> 2076 SD Gundam Psycho Salamander no Kyoui
+598 Daisu-Kiss <ver JAA> 2077 SDI - Strategic Defense Initiative <bootleg>
+599 Dangar - Ufo Robo <12/1/1986> 2078 Sea Fighter Poseidon
+600 Dangar - Ufo Robo <9/26/1986> 2079 Search And Rescue<US>
+601 Dangar - Ufo Robo <bootleg> 2080 Search Eye
+602 Danger Zone 2081 Secret Agent
+603 Dangerous Dungeons 2082 Section Z<set1>
+604 Dangerous Seed<Japan> 2083 Section Z<set2>
+605 Dangun Feveron <Japan> 2084 Sega Ninja
+606 Dan-Ku-Ga<Prototype¡µ 2085 SegaSonic The Hedgehog <Japan, rev. C>
+607 Daraku Tenshi 2086 Sei Senshi Amatelass
+608 Darius <Extra> <Japan> 2087 Seicross
+609 Darius <Japan old version> 2088 Seishun Scandal<Japan>
+610 Darius <Japan> 2089 Sengoku / Sengoku Denshou <set 1>
+611 Darius <World> 2090 Sengoku / Sengoku Denshou <set 2>
+612 Darius Gaiden - Silver Hawk <Extra Version> [Official Hack] 2091 Sengoku 2 / Sengoku Denshou 2
+613 Darius Gaiden - Silver Hawk <Japan> 2092 Sengoku 3 / Sengoku Denshou 3
+614 Darius Gaiden - Silver Hawk <US> 2093 Sengoku Ace <Japan>
+615 Darius Gaiden - Silver Hawk <World> 2094 Senjyo
+616 Darius II <dual screen> <Japan old version> 2095 Sexy Parodius <ver JAA>
+617 Darius II <dual screen> <Japan> 2096 SF-X
+618 Darius II <Japan> 2097 Shackled <US>
+619 Dark Adventure 2098 Shadow Dancer <set 1>
+620 Dark Planet 2099 Shadow Dancer<Japan>
+621 Dark Seal <Japan> 2100 Shadow Dancer<US>
+622 Dark Seal <World revision 1> 2101 Shadow Force <US>
+623 Dark Seal <World revision 3> 2102 Shadow Land
+624 Dark Seal 2 <Japan v2.1> 2103 Shadow Warriors <US>
+625 Dark Tower 2104 Shadow Warriors <World set 2>
+626 Darkstalkers: The Night Warriors <Euro 940705> 2105 Shanghai <Japan>
+627 Darkstalkers: The Night Warriors <US 940818> 2106 Shanghai II <Japan>
+628 Darwin 4078 <Japan> 2107 Shanghai III <Japan>
+629 Datsugoku - Prisoners of War <Japan> 2108 Shao-Lin's Road
+630 D-Con 2109 Shark Attack
+631 Dead Angle 2110 Shingen Samurai-Fighter <Japan, English>
+632 Dead Connection <Japan> 2111 Shinnyuushain Tooru-kun
+633 Dead Connection <World> 2112 Shinobi
+634 Death Brade <Japan Rev 2, JM-3> 2113 Shinobi <set 1>
+635 Defend the Terra Attack on the Red UFO 2114 Shippu Mahou Daisakusen <Japan>
+636 Defender <Red label> 2115 Shisensho-Joshiryo-Hen<Japan>
+637 Demolition Derby 2116 Shock Troopers
+638 Demolition Derby <2-Player Mono Board Version> 2117 Shock Troopers - 2nd Squad
+639 Demon 2118 Shocking
+640 Demon's World / Horror Story 2119 Shoot Out <Japan>
+641 Depthcharge 2120 Shoot Out <US>
+642 Depthcharge <older> 2121 Shot Rider
+643 Desert Assault 2122 Shot Rider <Sigma license>
+644 Desert Assault <US> 2123 Shuuz <version 8.0>
+645 Destination Earth 2124 Sichuan II<Hack>
+646 Detana!! Twin Bee <Japan ver. J> 2125 Side Pocket<US>
+647 Devastators <ver. V> 2126 Side Pocket<World>
+648 Devastators <ver. X> 2127 Silent Dragon <World>
+649 Devastators <ver. Z> 2128 Silent Dragon<Japan>
+650 Devil Fish 2129 Silk Worm <set 2>
+651 Devil Fish <Galaxian hardware, bootleg?> 2130 Silkworm <set 1>
+652 Devil World 2131 Silver Land
+653 Dharma Doujou 2132 Sindbad Mystery
+654 Diamond Run 2133 Sinistar <revision 3>
+655 Diet Go Go <Euro v1.1 1992.08.04> 2134 Skull & Crossbones
+656 Diet Go Go <Euro v1.1 1992.09.26> 2135 Sky Adventure
+657 Diet Go Go <Japan v1.1 1992.09.26> 2136 Sky Adventure <Japan>
+658 Diet Go Go <USA v1.1 1992.09.26> 2137 Sky Adventure <US>
+659 Dig Dug <Atari, rev 2> 2138 Sky Alert
+660 Dig Dug <rev 2> 2139 Sky Base
+661 Dig Dug II <Old Ver.> 2140 Sky Bumper
+662 Dig Dug II<New Ver.> 2141 Sky Diver
+663 Dimahoo 2142 Sky Fox
+664 Dingo 2143 Sky Kid <60A1 Ver.>
+665 Dino Rex <Japan> 2144 Sky Kid Deluxe <set 1>
+666 Dino Rex <US> 2145 Sky Kid<New Ver.>
+667 Dino Rex <World> 2146 Sky Lancer
+668 Disco No.1 2147 Sky Lancer <Esco Trading Co license>
+669 Disco No.1 <Rev.F> 2148 Sky Shark <US>
+670 Discs of Tron <Environmental> 2149 Sky Skipper
+671 Discs of Tron <Upright alternate> 2150 Sky Smasher
+672 Discs of Tron <Upright> 2151 Sky Soldiers <US>
+673 Diver Boy 2152 Slap Shot <Japan>
+674 Do! Run Run <set 1> 2153 Sly Spy <US revision 1>
+675 Dock Man 2154 Sly Spy<US revision 2>
+676 DoDonPachi <Japan> 2155 Smash T.V. <rev 8.00>
+677 DoDonPachi <Japan> 2156 Snacks'n Jaxson
+678 Dog Fight <Thunderbolt> 2157 Snake Pit
+679 Dog-Fight <Japan> 2158 Snap Jack
+680 Dokaben <Japan> 2159 Snapper <Korea>
+681 Domino Man 2160 Snow Bros. - Nick & Tom <Japan>
+682 Dominos 2161 Snow Bros. - Nick & Tom <set 1>
+683 Dommy 2162 Snow Bros. 2 - With New Elves
+684 Don Doko Don <World> 2163 Soccer Brawl
+685 Don Doko Don<Japan> 2164 Sol Divide
+686 Don Doko Don<US> 2165 Solar Fight
+687 Donkey Kong <Japan set 2> 2166 Solar Fox
+688 Donkey Kong <US set 2> 2167 Solar Quest
+689 Donkey Kong 3 <Japan> 2168 Solar-Warrior
+690 Donkey Kong 3<US> 2169 Soldam<Japan>
+691 Donkey Kong Jr.<bootleg> 2170 Soldier Girl Amazon
+692 Donkey Kong Jr.<Japan> 2171 Solitary Fighter <World>
+693 Donkey Kong Junior <bootleg?> 2172 Solomon's Key<Japan>
+694 Donkey Kong Junior <Japan?> 2173 Son of Phoenix
+695 Donkey Kong Junior <US> 2174 Son Son
+696 Donkey Kong<US set 1> 2175 Sonic Boom
+697 DonPachi <Japan> 2176 Sonic The Hedgehog <Mega Play>
+698 DonPachi <Japan> 2177 Sonic The Hedgehog 2 <Mega Play>
+699 DonPachi <Korea> 2178 Sorcer Striker <World>
+700 Dorodon <set 1> 2179 Sotsugyo Shousho
+701 Dorodon <set 2> 2180 Souko Ban Deluxe <Japan>
+702 Double Dragon <bootleg> 2181 Space Bomber <ver. B>
+703 Double Dragon <Japan> 2182 Space Cruiser
+704 Double Dragon <Neo-Geo> 2183 Space Duel
+705 Double Dragon <US> 2184 Space Dungeon
+706 Double Dragon <World> 2185 Space Echo
+707 Double Dragon 3 - The Rosetta Stone <bootleg> 2186 Space Fever <set 1>
+708 Double Dragon 3 - The Rosetta Stone <US> 2187 Space Fever High Splitter <set 1>
+709 Double Dragon II - The Revenge <US> 2188 Space Fortress <Zaccaria>
+710 Double Dragon II - The Revenge <World> 2189 Space Fury <revision A>
+711 Double Dribble 2190 Space Fury <revision C>
+712 Double Point 2191 Space Gun <World>
+713 DownTown 2192 Space Harrier
+714 Dr. Micro 2193 Space Intruder
+715 Dr. Tomy 2194 Space Invaders
+716 Dr. Toppel's Adventure <US> 2195 Space Invaders '95 - Attack Of The Lunar Loonies <World>
+717 Dr. Toppel's Adventure <World> 2196 Space Invaders DX <US> v2.1
+718 Dr. Toppel's Tankentai <Japan> 2197 Space Invaders II <Midway, cocktail>
+719 Dragon Blaze 2198 Space Invaders Part II <Taito>
+720 Dragon Breed 2199 Space Invasion
+721 Dragon Breed 2200 Space Invasion<Europe>
+722 Dragon Gun <US> 2201 Space King
+723 Dragon Master 2202 Space King 2
+724 Dragon Punch <Japan> 2203 Space Laser
+725 Dragon Spirit <new version> 2204 Space Launcher
+726 Dragon Spirit <old version> 2205 Space Odyssey
+727 Dragon Unit 2206 Space Panic <German>
+728 Dragonball Z 2207 Space Panic <harder>
+729 Dragonninja <Japan> 2208 Space Panic <version E>
+730 Dream Shopper 2209 Space Pilot
+731 Dream Soccer '94 2210 Space Seeker
+732 Drift Out 2211 Space Stranger
+733 Drift Out '94 - The Hard Order <Japan> 2212 Space Stranger 2
+734 Drive Out 2213 Space Wars
+735 Driving Force <Galaxian conversion bootleg> 2214 Space Zap
+736 Driving Force <Galaxian conversion> 2215 Sparkz
+737 Driving Force <Pac-Man conversion> 2216 Spatter
+738 Dual Assault 2217 Speak &amp
+739 Dump Matsumoto <Japan, 8751 317-unknown>> 2218 Special Project Y<US>
+740 Dungeon Magic <US> 2219 Special Project Y<World>
+741 Dungeon Magic <World> 2220 Spectar <revision 3>
+742 Dungeons & Dragons: Shadow over Mystara 2221 Speed Attack!
+743 Dungeons & Dragons: Shadow over Mystara <Euro 960209> 2222 Speed Ball
+744 Dungeons & Dragons: Tower of Doom 2223 Speed Ball <prototype>
+745 Dungeons &amp 2224 Speed Coin
+746 Dunk Shot 2225 Speed Rumbler
+747 Dyger 2226 Spelunker
+748 Dyger <Korea set 2> 2227 Spelunker <Japan>
+749 Dynablaster / Bomber Man 2228 Spelunker II
+750 Dynamic Country Club 2229 Spiker
+751 Dynamic Country Club <Floppy DS3-5000-09d> 2230 Spinal Breakers <World>
+752 Dynamite Duke 2231 Spinmaster / Miracle Adventure
+753 Dynamite Duke 2232 Splat!
+754 Dynamite Dux 2233 Splatter House<Japan>
+755 Dynamite League <Japan> 2234 Sports Match
+756 Dynasty Wars <World> 2235 Springer
+757 Dyno Bop 2236 Sprint 1
+758 E.D.F. : Earth Defense Force 2237 Spy Hunter
+759 Eagle <set 1> 2238 Stack Columns <Japan>
+760 Eagle <set 2> 2239 Stadium Hero <Japan>
+761 Eagle <set 3> 2240 Stakes Winner / Stakes Winner - GI kinzen seihae no michi
+762 Eco Fighters <World 931203> 2241 Stakes Winner 2
+763 Edward Randy <Japan> 2242 Star Castle <version 3>
+764 Edward Randy <World revision 1> 2243 Star Force
+765 Edward Randy <World revision 2> 2244 Star Force <encrypted>
+766 Egg Venture <Release 10> 2245 Star Guards
+767 Egg Venture <Release 7> 2246 Star Hawk
+768 Egg Venture Deluxe 2247 Star Jacker <Sega>
+769 Eggs 2248 Star Trek
+770 Eight Ball Action 2249 Star Wars <rev 2>
+771 Eight Ball Action <DKJr conversion> 2250 Stargate
+772 Eight Forces 2251 Steel Force
+773 Eight Man 2252 Steel Talons <German, rev 2>
+774 Elevator Action 2253 Steel Talons <rev 1>
+775 Elevator Action <bootleg> 2254 Steel Talons <rev 2>
+776 Elevator Action 2 <US> 2255 Stocker
+777 Elevator Action Returns <Japan> 2256 Stone Ball <2 Players>
+778 Elevator Action Returns <World> 2257 Stone Ball <4 Players>
+779 Eliminator <2 Players, set 1> 2258 Stoneage
+780 Eliminator <2 Players, set 2> 2259 Strafe Bomb
+781 Empire City: 1931 <bootleg?> 2260 Strata Bowling <V3>
+782 Empire City: 1931 <Japan> 2261 Strategic Defense Initiative
+783 Empire City: 1931 <US> 2262 Strategy X
+784 Enduro Racer 2263 Stratovox
+785 Enduro Racer <bootleg set 1> 2264 Street Fight <Germany>
+786 Enigma 2 2265 Street Fighter <US>
+787 Escape from the Planet of the Robot Monsters <set 1> 2266 Street Fighter <World>
+788 Escape from the Planet of the Robot Monsters <set 2> 2267 Street Fighter Alpha 2 <US 960306>
+789 Escape Kids <Japan 2 Players> 2268 Street Fighter Alpha 3 <US 980629>
+790 ESP Ra.De. <International Ver 1998 4/22> 2269 Street Fighter Alpha 3 <US 980904>
+791 ESP Ra.De. <Japan Ver 1998 4/14> 2270 Street Fighter Alpha: Warriors' Dreams <Euro 950605>
+792 ESP Ra.De. <Japan Ver 1998 4/21> 2271 Street Fighter Alpha: Warriors' Dreams <Euro 950718>
+793 Espial <Europe> 2272 Street Fighter Alpha: Warriors' Dreams <Euro 950727>
+794 Espial <US?> 2273 Street Fighter Alpha: Warriors' Dreams <US 950627>
+795 E-Swat 2274 Street Fighter II' - Champion Edition <Accelerator Pt.II>
+796 E-Swat - Cyber Police <set 1, Japan> 2275 Street Fighter II' - Champion Edition <Japan 920513>
+797 E-Swat - Cyber Police <set 2, US> 2276 Street Fighter II' - Champion Edition <Kouryu>
+798 E-Swat - Cyber Police <set 3, World> 2277 Street Fighter II' - Champion Edition <Rainbow set 1>
+799 Euro Champ '92 <World> 2278 Street Fighter II' - Champion Edition <Rainbow set 2>
+800 Evil Stone 2279 Street Fighter II' - Champion Edition <Red Wave>
+801 Evolution Soccer 2280 Street Fighter II' - Champion Edition <US 920803>
+802 Exciting Hour 2281 Street Fighter II' - Champion Edition <World>
+803 Exciting Soccer 2282 Street Fighter II' - Hyper Fighting <US>
+804 Exciting Soccer <alternate music> 2283 Street Fighter II - The World Warrior <Japan 911210>
+805 Exciting Soccer <bootleg> 2284 Street Fighter II - The World Warrior <US 910522>
+806 Exed Exes 2285 Street Fighter II - The World Warrior <World 910214>
+807 Exerion 2286 Street Fighter II - The World Warrior <World 910214>
+808 Exerion <bootleg> 2287 Street Fighter II' Turbo - Hyper Fighting <Japan 921209>
+809 Exerion <Taito> 2288 Street Fighter II! - Champion Edition <V004>
+810 Exerizer <Japan> 2289 Street Fighter III 1st Impact : New Generation
+811 Exodus <bootleg?> 2290 Street Fighter III 2nd Impact : Giant Attack
+812 Explorer 2291 Street Fighter III 3rd Strike : Fight for the Future
+813 Express Raider <US> 2292 Street Fighter Zero <Japan 950605>
+814 Extermination <US> 2293 Street Fighter Zero <Japan 950727>
+815 Exterminator 2294 Street Fighter Zero 2 <Japan 960227>
+816 Extra Bases 2295 Street Fighter Zero 2 <Japan 960805>
+817 Exzisus <Japan> 2296 Street Fighter Zero 3 <Japan 980727>
+818 Eyes <Digitrex Techstar> 2297 Street Fighter: The Movie <v1.10>
+819 Eyes <Techstar> 2298 Street Fighter: The Movie <v1.11>
+820 F-1 Dream 2299 Street Fighter: The Movie <v1.12>
+821 F-1 Dream <bootleg> 2300 Street Fighter: The Movie <v1.12N, Japan>
+822 F-1 Grand Prix 2301 Street Football
+823 F-1 Grand Prix Part II 2302 Street Hoop / Street Slam / Dunk Dream
+824 Face Off 2303 Street Smart <Japan version 1>
+825 Falcon 2304 Street Smart <World version 1>
+826 Fancy World! 2305 Street Smart<set1>
+827 Fantasy <Japan> 2306 Street Smart<set2>
+828 Fantasy <World> 2307 Streets of Rage II <Mega Play>
+829 Fantasy Land <set 1> 2308 Strength & Skill
+830 Fantasy Land <set 2> 2309 Strider Hiryu <Japan set 1>
+831 Fantasy Zone <set 1, unprotected> 2310 Strider Hiryu <Japan set 2>
+832 Fantasy Zone <set 2, unprotected> 2311 Strider<US set 1>
+833 Fantazia 2312 Strider<US set 2>
+834 Farmers Rebellion 2313 Strike Fighter <Japan>
+835 Fast Freddie 2314 Strike Force <rev 1 02/25/91>
+836 Faster, Harder, More Challenging Q*bert <prototype> 2315 Strike Gunner S.T.G
+837 Fatal Fury - King of Fighters / Garou Densetsu - shukumei no tatakai 2316 Striker 1945 <Japan>
+838 Fatal Fury 2 / Garou Densetsu 2 - arata-naru tatakai 2317 Strikers 1945 <Japan>
+839 Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - haruka-naru tatakai 2318 Strikers 1945 II
+840 Fatal Fury Special / Garou Densetsu Special 2319 Strikers 1945 III <World> / Strikers 1999 <Japan>
+841 Fatal Fury Special / Garou Densetsu Special <set 2> 2320 Sub Hunter
+842 Fever SOS <International> 2321 Subroc-3D
+843 Field Day 2322 Sunset Riders <4 Players ver EAC>
+844 Fight Fever / Crystal Legacy 2323 Sunset Riders <Japan 2 Players ver. JBD>
+845 Fight Fever <set 2> 2324 Sunset Riders <US 2 Players ver. UBC>
+846 Fighting Fantasy<Japan revision 2> 2325 Sunset Riders <World 2 Players ver. EBD>
+847 Fighting Fantasy<Japan> 2326 Super Bagman
+848 Fighting Golf <World?> 2327 Super Bagman <Stern>
+849 Fighting Hawk <Japan> 2328 Super Baseball
+850 Fighting Hawk<Japan> 2329 Super Basketball
+851 Fighting Soccer 2330 Super Basketball <version E>
+852 Final Blow <US> 2331 Super Basketball <version G>
+853 Final Blow <World> 2332 Super Bobble
+854 Final Blow<Japan> 2333 Super Breakout
+855 Final Fight <Japan> 2334 Super Bug
+856 Final Fight <US 900112> 2335 Super Burger Time <World>
+857 Final Fight <World> 2336 Super Burger time<Japan>
+858 Final Round <version M> 2337 Super Buster Bros. <US 901001>
+859 Final Star Force <US> 2338 Super Casino
+860 Finest Hour <Japan> 2339 Super Chase - Criminal Termination <US>
+861 Fire Truck 2340 Super Cobra
+862 Fitter 2341 Super Cobra <Sega>
+863 FixEight <bootleg> 2342 Super Contra
+864 Flak Attack 2343 Super Contra <Japan>
+865 Flash Point <Japan, bootleg> 2344 Super Cross 2 <Japan set 2>
+866 Flash Point <Japan> 2345 Super Cross 2<Japan>
+867 Flashgal 2346 Super Cup Finals <World>
+868 Flashgal <set 2> 2347 Super Dodge Ball / Kunio no Nekketsu Toukyuu Densetsu
+869 Flicky 2348 Super Dodge Ball <US>
+870 Flicky <64k Ver.> 2349 Super Doubles Tennis
+871 Flip & Flop 2350 Super Galaxians
+872 Fly-Boy 2351 Super Gem Fighter Mini Mix <US 970904>
+873 Flying Shark <bootleg> 2352 Super Gem Fighter: Mini Mix <Asia 970904>
+874 Flying Shark <World> 2353 Super Glob
+875 Football Champ <World> 2354 Super Hang-On <set 4, 68000>
+876 Football Frenzy 2355 Super Locomotive
+877 Force Break <bootleg> 2356 Super Missile Attack <for set 2>
+878 Forgotten Worlds <US> 2357 Super Monaco GP <set 1, Japan, Rev B>
+879 Free Kick 2358 Super Monaco GP <set 4, US, Rev C>
+880 Freeze 2359 Super Monaco GP <set 7, World, Rev B, 'Twin'>
+881 Frenzy 2360 Super Mouse
+882 Frog 2361 Super Muscle Bomber: The International Blowout <Japan 940808>
+883 Frog <Galaxian hardware> 2362 Super Muscle Bomber: The International Blowout <Japan 940831>
+884 Frogger 2363 Super Pac-Man
+885 Frogger <Moon Cresta hardware> 2364 Super Pac-Man <Midway>
+886 Frogger <Sega set 1> 2365 Super Pang <Japan 901023>
+887 Frogger <Sega set 2> 2366 Super Pang <World>
+888 Frogs 2367 Super Pool III <I-Vics>
+889 Full Throttle <Japan> 2368 Super Pool III <World?>
+890 Funky Bee 2369 Super Punch_out<Japan>
+891 Funky Fish 2370 Super Punch_out<US>
+892 Funky Jet 2371 Super Puzzle Fighter 2 Turbo <US 960620>
+893 Funny Mouse 2372 Super Puzzle Fighter 2 X <Japan 960531>
+894 Future Spy 2373 Super Qix <bootleg>
+895 F-X 2374 Super Qix <set 1>
+896 Gabg busters 2375 Super Qix <set 2>
+897 Gaia Crusaders 2376 Super Real Darwin<Japan>
+898 Gain Ground 2377 Super Real Darwin<World>
+899 Galactic Warriors 2378 Super Sidekicks / Tokuten Ou
+900 Galaga <Namco rev. B> 2379 Super Sidekicks 2 - The World Championship
+901 Galaga 3 <rev. C> 2380 Super Sidekicks 3 - The Next Glory
+902 Galaga '88 <Japan> 2381 Super Slams
+903 Galaga '88<set1> 2382 Super Space Invaders '91 <World>
+904 Galaxian <Midway, old rev> 2383 Super Spacefortress Macross II / Chou-Jikuu Yousai Macross II
+905 Galaxian <Midway> 2384 Super Sprint <French>
+906 Galaxian <Namco set 2> 2385 Super Sprint <German, rev 2>
+907 Galaxian <Namco> 2386 Super Sprint <rev 4>
+908 Galaxian Part 4 2387 Super Sprint <Spanish>
+909 Galaxian Part X 2388 Super Stereet Fighter2Turbo<asia>
+910 Galaxian Turbo 2389 Super Stingray
+911 Galaxy Fight - Universal Warriors 2390 Super Street Fighter 2X<Asia>
+912 Galaxy Force 2 2391 Super Street Fighter 2X<Japan>
+913 Galaxy Force 2 <Japan> 2392 Super Street Fighter II Turbo <World 940223>
+914 Galaxy Gunners 2393 Super Street Fighter II: The New Challengers <US 930911>
+915 Galaxy Rescue 2394 Super Street Fighter II: The New Challengers <World 930911>
+916 Galaxy Wars <Taito?> 2395 Super Strike Bowling
+917 Galaxy Wars <Universal set 1> 2396 Super Tank
+918 Galaxy Wars <Universal set 2> 2397 Super Toffy
+919 Galivan 2398 Super Trio
+920 Galmedes <Japan> 2399 Super Volleyball<Japan>
+921 Games V18.7C 2400 Super Volleyball<Korea>
+922 Games V25.4X 2401 Super Volleyball<US>
+923 Ganbare Ginkun 2402 Super World Stadium '92 <Japan>
+924 Gang Hunter <Spain> 2403 Super World Stadium '92 Gekitouban <Japan>
+925 Gang Wars 2404 Super Xevious
+926 Gang Wars<US> 2405 Super Zaxxon
+927 Gaplus <rev. D> 2406 Superman
+928 Garou - Mark of the Wolves <prototype> 2407 Superman <Japan>
+929 Garou - Mark of the Wolves <set 1> 2408 Surprise Attack
+930 Garuka <Japan ver. W> 2409 Surprise Attack <Japan ver. M>
+931 Garyo Retsuden<Japan> 2410 Survival Arts <World>
+932 Gate of Doom <US revision 1> 2411 SvC Chaos - SNK vs Capcom Super Plus <bootleg>
+933 Gate of Doom <US revision 4> 2412 SVCCHAOS
+934 Gauntlet <2 Players, German, rev 1> 2413 Swat
+935 Gauntlet <2 Players, German, rev 4> 2414 Swimmer
+936 Gauntlet <2 Players, Japanese, rev 2> 2415 Syougi No Tatsujin - Master of Syougi
+937 Gauntlet <2 Players, Japanese, rev 5> 2416 Syusse Oozumou <Japan>
+938 Gauntlet <2 Players, rev 3> 2417 Syvalion <Japan>
+939 Gauntlet <2 Players, rev 6> 2418 T.N.K. III <US>
+940 Gauntlet <German, rev 10> 2419 Tac/Scan
+941 Gauntlet <Japanese, rev 13> 2420 Tactician <set 1>
+942 Gauntlet <rev 1> 2421 Tactician <set 2>
+943 Gauntlet <rev 14> 2422 Tag Team Wrestling
+944 Gauntlet <rev 2> 2423 Tail to Nose - Great Championship
+945 Gauntlet <rev 4> 2424 Tailgunner
+946 Gauntlet <rev 5> 2425 Taisen Karate Dou <Japan VS version>
+947 Gauntlet <rev 7> 2426 Taito Cup Finals <World>
+948 Gauntlet <rev 9> 2427 Takeda Shingen<Japan>
+949 Gauntlet <Spanish, rev 15> 2428 Tank Battalion
+950 Gauntlet II 2429 Tank Busters
+951 Gauntlet II <2 Players, German> 2430 Tank Force <Japan>
+952 Gauntlet II <2 Players, rev 1> 2431 Tank Force <US>
+953 Gauntlet II <2 Players, rev 2> 2432 Tant-R <Puzzle &amp
+954 Gauntlet II <German> 2433 Tant-R <Puzzle &amp
+955 Gee Bee 2434 Tant-R<Japan>
+956 Gee Bee <Gremlin> 2435 Tao Taido <set 1>
+957 Gekirindan <Japan> 2436 Tapper <alternate>
+958 Gemini Wing 2437 Tapper <Budweiser>
+959 Genix Family 2438 Tapper <Root Beer>
+960 Genpei ToumaDen 2439 Tapper <Suntory>
+961 Genshi-Tou 1930's 2440 Tatakae Genshizin Joe &amp
+962 Geostorm <Japan> 2441 Tatakai no Banka <Japan>
+963 Ghost Hunter 2442 Tazz-Mania <Galaxian Hardware>
+964 Ghost Pilots 2443 Tazz-Mania <set 1>
+965 Ghostlop <prototype> 2444 Tazz-Mania <set 2>
+966 Ghostmuncher Galaxian <bootleg> 2445 Tecmo Knight
+967 Ghosts'n Goblins <US> 2446 Tecmo World Cup <Mega Play>
+968 Ghosts'n Goblins <World? set 1> 2447 Tecmo World Soccer '96
+969 Ghouls'n Ghosts <US> 2448 TeddyBoy Blues <New Ver.>
+970 Ghouls'n Ghosts <World> 2449 Teenage Mutant Hero Turtles <UK 2 Players>
+971 GI Joe <Japan> 2450 Teenage Mutant Hero Turtles <UK 4 Players>
+972 GI Joe <US> 2451 Teenage Mutant Ninja Turtles <Japan 2 Players>
+973 GI Joe <World> 2452 Teenage Mutant Ninja Turtles <Japan 4 Players>
+974 Gigandes 2453 Teenage Mutant Ninja Turtles <Oceania 2 Players>
+975 Gigas <bootleg> 2454 Teenage Mutant Ninja Turtles <US 4 Players, set 1>
+976 Gigas Mark II <bootleg> 2455 Teenage Mutant Ninja Turtles <US 4 Players, set 2>
+977 Gigawing 2456 Teenage Mutant Ninja Turtles <World 4 Players>
+978 Gimme A Break 2457 Tehkan World Cup
+979 Ginga NinkyouDen 2458 Tempest <rev ?>
+980 Ginga NinkyouDen <set 2> 2459 Tempest <rev 1>
+981 Gingateikoku No Gyakushu 2460 Tempest <rev 2>
+982 Gingateikoku No Gyakushu <bootleg set 1> 2461 Tempest <rev 3>
+983 Gingateikoku No Gyakushu <bootleg set 2> 2462 Tempest Tubes
+984 Gladiator <US> 2463 Tenchi wo Kurau <Japan>
+985 Global Champion <US> 2464 Tengai
+986 G-LOC Air Battle <US> 2465 Terminator 2 - Judgment Day <rev LA3 03/27/92>
+987 Goal! Goal! Goal! 2466 Terra Cresta <YM3526 set 1>
+988 Goalie Ghost 2467 Terra Cresta <YM3526 set 2>
+989 Gokujyou Parodius <ver JAD> 2468 Terra Cresta<YM2203>
+990 Gold Medalist 2469 Tetris <bootleg set 1>
+991 Gold Medalist <alt> 2470 Tetris <bootleg set 2>
+992 Golden Axe - The Duel <JUETL 950117 V1.000> 2471 Tetris <bootleg>
+993 Golden Axe <set 2, US, 8751 317-0112> 2472 Tetris <Cocktail set 1>
+994 Golden Axe <set 3, World> 2473 Tetris <Cocktail set 2>
+995 Golden Axe <set 6, US, 8751 317-123A> 2474 Tetris <Japan, B-System, YM2203>
+996 Golden Axe <Version 1> 2475 Tetris <Japan, B-System, YM2610>
+997 Golden Axe II <Mega Play> 2476 Tetris <set 1>
+998 Golden Fire II 2477 Tetris <set 2>
+999 Golden Par Golf <Joystick, V1.1> 2478 Tetris Plus
+1000 Golden Tee '98 <v1.00> 2479 Tetris Plus 2 <Japan>
+1001 Golden Tee '98 <v1.10> 2480 Tetris Plus2
+1002 Golden Tee Classic <v1.00> 2481 The Alphax Z
+1003 Golden Tee Classic <v1.00> Alt 2482 The Amazing Adventures of Mr. F. Lea
+1004 Golden Tee Golf <Joystick, v3.1> 2483 The Anteater <UK>
+1005 Golden Tee Golf II <Joystick, V1.0> 2484 The Astyanax
+1006 Golden Tee Golf II <Trackball, V1.1> 2485 The Battle-Road
+1007 Golden Tee Golf II <Trackball, V2.2> 2486 The Berlin Wall <set 1>
+1008 Gonbee no I'm Sorry 2487 The Berlin Wall <set 2>
+1009 Gondomania <US> 2488 The Big Pro Wrestling!
+1010 Gorf 2489 The Billiards
+1011 Gorf <Program 1> 2490 The Bounty
+1012 Gorkans 2491 The Combatribes <bootleg>
+1013 Got-cha 2492 The Combatribes <US>
+1014 Got-Ya <12/24/1981, prototype?> 2493 The Crystal of Kings
+1015 GP Rider <set 1, US> 2494 The Deep
+1016 Gradius 2495 The Double Dynamites
+1017 Gradius II - GOFER no Yabou <Japan New Ver.> 2496 The Electric Yo-Yo <set 1>
+1018 Gradius II<Japan Old Ver.> 2497 The Electric Yo-Yo <set 2>
+1019 Gradius III <Japan> 2498 The Empire Strikes Back
+1020 Gradius III <World ?> 2499 The End
+1021 Grand Tour 2500 The End <Stern>
+1022 Gravitar <prototype> 2501 The Final Round <version L>
+1023 Gravitar <version 3> 2502 The Glob
+1024 Great 1000 Miles Rally 2503 The Glob <earlier>
+1025 Great 1000 Miles Rally <Evolution Model> 2504 The Glob <Pac-Man hardware>
+1026 Great 1000 Miles Rally <USA> 2505 The Glob <set 3>
+1027 Great Gurianos <Japan?> 2506 The Guiness<Japan>
+1028 Great Mahou Daisakusen <Japan 000121> 2507 The Hand
+1029 Great Swordsman <Japan?> 2508 The Irritating Maze / Ultra Denryu Iraira Bou
+1030 Great Swordsman <World?> 2509 The Killing Blade<Chinese Board>
+1031 Green Beret 2510 The King of Dragons <Japan 910805>
+1032 Green Beret <bootleg> 2511 The King of Dragons <US 910910>
+1033 Grid Seeker: Project Storm Hammer<Ver 1.3J> 2512 The King of Dragons <World>
+1034 Grid Seeker: Project Stormhammer <US> 2513 The King of Fighters 10th Anniversary / All Team Battle < Bootleg >
+1035 Grid Seeker: Project Stormhammer <World> 2514 The King of fighters 10th Anniversary 2005 Unigue
+1036 Gridiron Fight 2515 The King of fighters 10th Anniversary Extra Plus
+1037 Griffon 2516 The King of Fighters 2000
+1038 Grobda <Old Ver. set 1> 2517 The King of Fighters 2000 <not encrypted>
+1039 Grobda <Old Ver. set 2> 2518 The King of Fighters 2001
+1040 Grobda<New version> 2519 The King of Fighters 2002
+1041 Growl <World> 2520 The King of Fighters 2002
+1042 Growl<US> 2521 The King Of Fighters 2002 Magic Plus
+1043 Grudge Match <prototype> 2522 The King Of Fighters 2002 Magic PlusII
+1044 Gryzor 2523 The King of Fighters 2002 Plus
+1045 Guardians / Denjin Makai II 2524 The King of Fighters 2003
+1046 Guardians of the 'Hood 2525 The King of Fighters 2003 <World / US, MVS>
+1047 Guerrilla War <US> 2526 The King of Fighters 2004
+1048 Guevara <Japan> 2527 The King of Fighters 94
+1049 Gulf War II 2528 The King of Fighters 95
+1050 Gun Ball <Japan> 2529 The King of Fighters '95 <set 2>
+1051 Gun Bird <World> 2530 The King of Fighters 96
+1052 Gun Dealer <set 1> 2531 The King of Fighters '96 <set 2>
+1053 Gun Dealer <set 2> 2532 The King of Fighters 97
+1054 Gun Dealer <Tecmo> 2533 The King of Fighters 97
+1055 Gun Dealer '94 2534 The King of Fighters '97 <set 2>
+1056 Gun Frontier 2535 The King of Fighters 97 Super Plus
+1057 Gun Frontier <Japan> 2536 The King of Fighters 98
+1058 Gun Hohki <Japan> 2537 The King of Fighters 98 - The Slugfest
+1059 Gun.Smoke 2538 The King of Fighters '98 - The Slugfest / King of Fighters '98 - dream match never ends <Korean board>
+1060 Gun.Smoke <World> 2539 The King of Fighters 99 - Millennium Battle
+1061 Gun.Smoke<Japan> 2540 The King of Fighters '99 - Millennium Battle <earlier>
+1062 Gun.Smoke<US set 2> 2541 The King of Fighters '99 - Millennium Battle <set 2>
+1063 Gunbarich 2542 The Last Blade / Bakumatsu Roman - Gekka no Kenshi <set 2>
+1064 Gunbird <Japan> 2543 The Last Blade 2 / Bakumatsu Roman - Dai Ni Maku Gekkano Kenshi
+1065 Gunbird <Korea> 2544 The Last Day <set 1>
+1066 Gunbird 2 2545 The Legend of Kage
+1067 Gunbuster <Japan> 2546 The Legend of Kage <bootleg set 1>
+1068 Gundhara 2547 The Legend of Kage <bootleg set 3>
+1069 Gunforce - Battle Fire Engulfed Terror Island <Japan> 2548 The Legend of Silkroad
+1070 Gunforce - Battle Fire Engulfed Terror Island <US> 2549 The Lord of King <Japan>
+1071 Gunforce - Battle Fire Engulfed Terror Island <World> 2550 The Main Event <2 Players ver. X>
+1072 Gunforce 2 <US> 2551 The Main Event <4 Players ver. F>
+1073 Gunlock <World> 2552 The Main Event <4 Players ver. Y>
+1074 Gururin Face 2553 The NewZealand Story <Japan>
+1075 Guttang Gottong 2554 The NewZealand Story <World, older>
+1076 Guwange <Japan> 2555 The NewZealand Story<Japan>
+1077 Guzzler 2556 The Next Space
+1078 Gyakuten!! Puzzle Bancho <Japan> 2557 The Ninja Kids<Japan>
+1079 Gyrodine 2558 The Ninja Warriors <Japan>
+1080 Gyrodine <Crux> 2559 The Ninja Warriors <World>
+1081 Gyruss <Centuri> 2560 The Percussor
+1082 Gyruss <Konami> 2561 The Pit
+1083 Hachoo! 2562 The Punisher <Japan 930422>
+1084 Hammerin' Harry <World> 2563 The Punisher <US 930422>
+1085 Hangly-Man <set 1> 2564 The Punisher <World>
+1086 Hangly-Man <set 2> 2565 The Real Ghostbusters <US 2 Players>
+1087 Hangly-Man <set 3> 2566 The Real Ghostbusters <US 3 Players>
+1088 Hangman 2567 The Simpsons
+1089 Hang-On 2568 The Simpsons <2 Players alt>
+1090 Hang-On Jr. 2569 The Simpsons <4 Players alt>
+1091 Hard Hat 2570 The Simpsons<Japan>
+1092 Hard Head 2571 The Simpsons<US>
+1093 Hard Head <bootleg> 2572 The Speed Rumbler <set 2>
+1094 Hard Head 2 <v2.0> 2573 The Super Spy
+1095 Hard Puncher <Japan> 2574 The Togyu <Japan>
+1096 Hard Yardage <v1.00> 2575 The Ultimate 11 / Tokuten Ou - Honoo no Libero
+1097 Hard Yardage <v1.20> 2576 The Undoukai <Japan>
+1098 Hasamu <Japan> 2577 The Winter Bobble
+1099 Hat Trick 2578 The World Warrior <US 911101>
+1100 Hat Trick Hero <Japan> 2579 Thief
+1101 Hat Trick Hero '93 <Japan> 2580 Thrash Rally
+1102 Hat Trick Hero '94 <US> 2581 Three Wonders <US 910520>
+1103 Hat Trick Hero '95 <Japan> 2582 Three Wonders <World>
+1104 Hat Trick Hero '95 <US> 2583 Thunder & Lightning
+1105 Hatch Catch 2584 Thunder Blade
+1106 Hatris <Japan> 2585 Thunder Blade <Japan>
+1107 Haunted Castle <version M> 2586 Thunder Blaster <Japan>
+1108 Haunted Castle<version K> 2587 Thunder Ceptor
+1109 Head Panic <ver. 0315, 15/03/2000> 2588 Thunder Ceptor II
+1110 Heavy Barrel <US> 2589 Thunder Cross
+1111 Heavy Barrel <World> 2590 Thunder Cross <Japan>
+1112 Heavy Metal 2591 Thunder Cross <Set 2>
+1113 Heavyweight Champ 2592 Thunder Cross II <Asia>
+1114 Hebereke no Popoon <Japan> 2593 Thunder Cross II <Japan>
+1115 Hellfire 2594 Thunder Dragon
+1116 Hellfire <1P Ver.> 2595 Thunder Dragon <Bootleg>
+1117 Herbie at the Olympics <DK conversion> 2596 Thunder Dragon 2
+1118 Hero in the Castle of Doom <DK conversion> 2597 Thunder Fox <Japan>
+1119 Hero of Doom 2598 Thunder Fox <US>
+1120 Hex Pool 2599 Thunder Fox <World>
+1121 Hexa 2600 Thunder hoop
+1122 Hexion 2601 Thunder Zone
+1123 High Impact Football <prototype, rev 8.6 12/09/90> 2602 Thundercade / Twin Formation
+1124 High Impact Football <rev LA3 12/27/90> 2603 ThunderForce AC
+1125 High Impact Football <rev LA4 02/04/91> 2604 ThunderForce AC <bootleg>
+1126 High Way Race 2605 ThunderForce AC <Japan>
+1127 Hippodrome <US> 2606 ThunderJaws
+1128 Hishou Zame <Japan> 2607 Tickee Tickats
+1129 Hissatsu Buraiken <Japan> 2608 Tiger Heli
+1130 Hit 'n Miss <version 2.0> 2609 Tiger Heli <US>
+1131 Hit 'n Miss <version 3.0> 2610 Tiger Road <US bootleg>
+1132 Hit the Ice <US> 2611 Tiger Road <US>
+1133 Hoccer <set 1> 2612 Timber
+1134 Hoccer <set 2> 2613 Time Killers <v1.31>
+1135 Holosseum <US> 2614 Time Killers <v1.32>
+1136 Homo 2615 Time Pilot
+1137 Hook <Japan> 2616 Time Pilot <Atari>
+1138 Hook <US> 2617 Time Pilot <Centuri>
+1139 Hook <World> 2618 Time Pilot 84
+1140 Hopper Robo 2619 Time Pilot '84 <set 2>
+1141 Hopping Mappy 2620 Time Scanner
+1142 Horro Story<Taito license> 2621 Time Scanner <set 1, System 16A>
+1143 Hot Chase 2622 Time Soldiers <US Rev 1>
+1144 Hot Rod <World, 3 Players, Turbo set 1> 2623 Time Soldiers <US Rev 3>
+1145 Hot Shocker 2624 Time Tunnel
+1146 Hot Shots Tennis <V1.0> 2625 Tip Top
+1147 Hot Shots Tennis <V1.1> 2626 Toffy
+1148 Hotdog Storm 2627 Toggle <prototype>
+1149 Hunchback <Galaxian hardware> 2628 Toki
+1150 Hunchback <Scramble hardware> 2629 Toki <US>
+1151 Hunchback Olympic <Scramble hardware> 2630 Toki <World set 1>
+1152 Hydra 2631 Toki <World set 2>
+1153 Hyper Duel <Japan set 1> 2632 Toki no Senshi - Chrono Soldier
+1154 Hyper Duel <Japan set 2> 2633 Tokimeki Memorial Taisen Puzzle-dama <ver JAB>
+1155 Hyper Olympic 2634 Tokio / Scramble Formation
+1156 Hyper Olympic <bootleg> 2635 Tokusyu Butai U.A.G. <Japan>
+1157 Hyper Olympic '84 2636 Toobin' <Europe, rev 3>
+1158 Hyper Pacman 2637 Toobin' <German, rev 3>
+1159 Hyper Pacman <bootleg> 2638 Toobin' <rev 3>
+1160 Hyper Sports 2639 Top Hunter - Roddy & Cathy
+1161 Hyper Sports Special <Japan> 2640 Top Hunter - Roddy &amp
+1162 I, Robot 2641 Top Player's Golf
+1163 Ichidant-R <Puzzle &amp 2642 Top Racer <set 1>
+1164 Ichidant-R <Puzzle &amp 2643 Top Racer <set 2>
+1165 Iga Ninjyutsuden <Japan> 2644 Top Racer <set 3>
+1166 IGS Chinese Dragon II 2645 Top Ranking Stars <Japan new version>
+1167 Ikari III - The Rescue 2646 Top Ranking Stars <Japan old version>
+1168 Ikari Warriors <US> 2647 Top Ranking Stars <World new version>
+1169 Ikki <Japan> 2648 Top Ranking Stars <World old version>
+1170 I'm Sorry <US> 2649 Top Secret<Japan>
+1171 Image Fight <Japan> 2650 Top Speed <US>
+1172 In The Hunt <US> 2651 Top Speed <World>
+1173 In The Hunt <World> 2652 Tora-he no Michi <Japan>
+1174 Indiana Jones and the Temple of Doom <German> 2653 Torus
+1175 Indiana Jones and the Temple of Doom <set 1> 2654 Toryumon
+1176 Indiana Jones and the Temple of Doom <set 2> 2655 Total Carnage <prototype, rev 1.0 01/25/92>
+1177 Indiana Jones and the Temple of Doom <set 3> 2656 Total Carnage <rev LA1 03/10/92>
+1178 Indiana Jones and the Temple of Doom <set 4> 2657 Tournament Arkanoid <US>
+1179 Indy Heat 2658 Tower of Druaga <Old Ver.>
+1180 Insector <prototype> 2659 Tower of Druaga<New Ver.>
+1181 Insector X <World> 2660 Toypop
+1182 International Cup '94 <World> 2661 Track & Field
+1183 Intrepid <set 1> 2662 Track &amp
+1184 Invasion 2663 Transformer
+1185 Invinco 2664 Traverse USA / Zippy Race
+1186 IQ-Block 2665 Treasure Hunt <Japan?>
+1187 Iron Horse 2666 Trick Trap <World?>
+1188 Ironman Stewart's Super Off-Road 2667 Tricky Doc
+1189 Ironman Stewart's Super Off-Road Track Pack 2668 Trigon <Japan>
+1190 J. J. Squawkers 2669 Trio The Punch
+1191 Jack the Giantkiller <set 1> 2670 Trio The Punch - Never Forget Me... <World>
+1192 Jack the Giantkiller <set 2> 2671 Triple Fun
+1193 Jack the Giantkiller <set 3> 2672 Triple Punch
+1194 Jackal <World> 2673 Tri-Pool <Casino Tech>
+1195 Jackson 2674 Tri-Pool <Costal Games>
+1196 Jail Break 2675 Tri-Sports
+1197 Jatre Specter <set 1> 2676 Trog <prototype, rev 4.00 07/27/90>
+1198 Jatre Specter <set 2> 2677 Trog <rev LA3 02/14/91>
+1199 Jigoku Meguri<Japan> 2678 Trog <rev LA4 03/11/91>
+1200 Jitsuryoku!! Pro Yakyuu <Japan> 2679 Trog <rev PA6-PAC 09/09/90>
+1201 John Elway's Team Quarterback 2680 Trojan <Romstar>
+1202 John Elway's Team Quarterback <set 2> 2681 Trojan <US>
+1203 Joinem 2682 Tron <set 1>
+1204 Jojo's Bizarre Adventure : Heritage for the Future 2683 Tron <set 2>
+1205 Jojo's Venture/Jojo no Kimyouna Bouken 2684 Tron <set 3>
+1206 Joust <White/Green label> 2685 Tron <set 4>
+1207 Joust 2 - Survival of the Fittest <set 1> 2686 Truxton / Tatsujin
+1208 Joyman 2687 Truxton II / Tatsujin II / Tatsujin Oh <Japan>
+1209 Jr. Pac-Man 2688 Tube Panic
+1210 Judge Dredd <rev LA1, prototype> 2689 Tube-It
+1211 JuJu Densetsu <Japan> 2690 Tumble Pop <Japan>
+1212 Jump Bug 2691 Tumble Pop <World>
+1213 Jump Bug<bootleg> 2692 Tunnel Hunt
+1214 Jump Coaster 2693 Tunnel Hunt <Centuri>
+1215 Jump Coaster <Taito> 2694 Turbo Force
+1216 Jump Kids 2695 Turbo Out Run <set 2, upright>
+1217 Jump Shot 2696 Turbo Out Run <set 3>
+1218 Jump Shot Engineering Sample 2697 Turpin
+1219 Jumping 2698 Turtle Ship
+1220 Jumping Jack 2699 Turtles
+1221 Jungle Hunt<Brazil> 2700 Tutankham
+1222 Jungle Hunt<US> 2701 Tutankham<Stern>
+1223 Jungle King <Japan, earlier> 2702 Tut's Tomb
+1224 Jungle King<Japan> 2703 Twin Bee Yahhoo! <ver JAA>
+1225 Jungler 2704 Twin Brats
+1226 Jungler <Stern> 2705 Twin Cobra <US>
+1227 Juno First 2706 Twin Cobra <World>
+1228 Juno First <Gottlieb> 2707 Twin Cobra 2 <US>
+1229 Jyanshin Densetsu - Quest of Jongmaster 2708 Twin Cobra 2 <World>
+1230 Jyuohki <set 3, Japan> 2709 Twin Eagle - Revenge Joe's Brother
+1231 Kabuki Klash - Far East of Eden / Tengai Makyou Shinden - Far East of Eden 2710 Twin Eagle II - The Rescue Mission
+1232 Kabuki-Z <Japan> 2711 Twin Falcons
+1233 Kabuki-Z <World> 2712 Twin Hawk
+1234 Kageki <Japan> 2713 Twin Hawk <US>
+1235 Kageki<US> 2714 Twin Qix <US Prototype>
+1236 Kaiser Knuckle <Japan> 2715 TwinBee
+1237 Kaiser Knuckle <World> 2716 Twinkle
+1238 Kaitei Daisensou <Japan> 2717 Twinkle Star Sprites
+1239 Kaitei Takara Sagashi 2718 Two Crude <US>
+1240 Kaitei Takara Sagashi <K'K-Tokki> 2719 Two Tigers
+1241 Kamikaze 2720 Two Tigers <dedicated>
+1242 Kamikaze Cabbie 2721 Typhoon
+1243 Kangaroo 2722 U.N. Defense Force: Earth Joker <Japan>
+1244 Kangaroo <Atari> 2723 U.N. Squadron <US>
+1245 Kangaroo <bootleg> 2724 U.S. Championship V'ball <Japan>
+1246 Kaos 2725 U.S. Championship V'ball<set 1>
+1247 Karate Blazers <World?> 2726 U.S. Navy <Japan 901012>
+1248 Karate Champ <US VS version> 2727 Ufo Senshi Yohko Chan
+1249 Karate Champ <US> 2728 Ufo Senshi Yohko Chan <not encrypted>
+1250 Karate Dou <Japan> 2729 Ultimate Mortal Kombat 3
+1251 Karian Cross <Rev. 1.0> 2730 Ultimate Tennis
+1252 Karnov <Japan> 2731 Ultra Balloon
+1253 Karnov <US> 2732 Ultra Toukon Densetsu <Japan>
+1254 Karnov's Revenge / Fighter's History Dynamite 2733 Ultraman <Japan>
+1255 Ken-Go 2734 Ultraman Club - Tatakae!
+1256 Kick <cocktail> 2735 Undercover Cops <World>
+1257 Kick <upright> 2736 UniWar S
+1258 Kick and Run 2737 Uo Poko <Japan>
+1259 Kick Off <Japan> 2738 Up'n Down
+1260 Kick Rider 2739 Up'n Down <not encrypted>
+1261 Kick Start 2740 Valtric
+1262 Kicker 2741 Vamp 1/2 <Korea>
+1263 Kid no Hore Hore 2742 Vampire Savior 2: The Lord of Vampire <Japan 970913>
+1264 Kid no Hore Hore Daisakusen <bootleg> 2743 Vampire Savior: The Lord of Vampire <Euro 970519>
+1265 KiKi KaiKai 2744 Vampire Savior: The Lord of Vampire <Japan 970519>
+1266 Killer Comet 2745 Vampire Savior: The Lord of Vampire <US 970519>
+1267 Killer Instinct 2746 Vampire: The Night Warriors <Japan 940705>
+1268 Killer instinct II 2747 Vanguard <Centuri>
+1269 King & Balloon <US> 2748 Vanguard <Japan>
+1270 King &amp 2749 Vanguard <SNK>
+1271 King of Boxer <English> 2750 Vanguard II
+1272 King of the Monsters 2751 Van-Van Car
+1273 King of the Monsters <set 2> 2752 Van-Van Car <Karateco>
+1274 King of the Monsters 2 - The Next Thing King of the Monsters 2 2753 Van-Van Car <set 3>
+1275 Kingdom Grandprix <World> 2754 Vapor Trail - Hyper Offence Formation <US>
+1276 Kitten Kaboodle 2755 Vapor Trail - Hyper Offence Formation <World revision 1>
+1277 Kizuna Encounter - Super Tag Battle 2756 Varth - Operation Thunderstorm <Japan 920714>
+1278 Klax <Germany> 2757 Varth - Operation Thunderstorm <US 920612>
+1279 Klax <Japan> 2758 Varth - Operation Thunderstorm <World>
+1280 Klax <prototype set 2> 2759 Vasara
+1281 Klax <set 1> 2760 Vasara 2 <set 1>
+1282 Knights of the Round <Japan 911127> 2761 Vastar <set 1>
+1283 Knights of the Round <US 911127> 2762 Vastar <set 2>
+1284 Knights of the Round <World> 2763 Vautour <Jeutel France>
+1285 Knights of Valour / Sangoku Senki <ver. 117> 2764 Vendetta <Asia 2 Players ver. D>
+1286 Knights of Valour 2 / Nine Dragons 2765 Vendetta <Asia 2 Players ver. U>
+1287 Knights of Valour 2 <ver. 100> 2766 Vendetta <World 2 Players ver. W>
+1288 Knights of Valour Plus / Sangoku Senki Plus <ver. 119> 2767 Vendetta <World 4 Players ver. R>
+1289 Knights of Valour<ver. 115> 2768 Vendetta <World 4 Players ver. T>
+1290 Knock Out!! 2769 Venus
+1291 Knuckle Joe <set 2> 2770 Victory Road
+1292 Koi Koi Shimasho 2 - Super Real Hanafuda <Japan> 2771 Video Hustler
+1293 Koi no Hotrock <Japan> 2772 Video Hustler <bootleg>
+1294 Kokontouzai Eto Monogatari <Japan> 2773 Video Pool <bootleg on Moon Cresta hardware>
+1295 Konami '88 2774 Viewpoint
+1296 Konami GT 2775 Vigilante <World>
+1297 Konami RF2 - Red Fighter 2776 Vindicators Part II<rev3>
+1298 Korosuke Roller 2777 Vindicators<rev5>
+1299 Kozmik Kroozr 2778 Violence Fight <US>
+1300 Kram <encrypted> 2779 Violence Fight<World>
+1301 Kram <set 1> 2780 Violent Storm <ver EAB>
+1302 Kram <set 2> 2781 Viper
+1303 Krazy Bowl 2782 Voltage Fighter - Gowcaizer / Choujin Gakuen Gowcaizer
+1304 Krull 2783 Vs 10-Yard Fight <Japan>
+1305 Kuhga-Vapor Trail<Japan> 2784 Vs 10-Yard Fight <World, 11/05/84>
+1306 Kunckle Joe 2785 Vs. Atari R.B.I. Baseball <set 1>
+1307 Kung_Fu Taikun 2786 Vs. Atari R.B.I. Baseball <set 2>
+1308 Kung-Fu Master 2787 Vs. Balloon Fight
+1309 Kung-Fu Master <bootleg set 1> 2788 Vs. BaseBall
+1310 Kung-Fu Master <bootleg set 2> 2789 Vs. BaseBall <Japan set 1>
+1311 Kung-Fu Master <Data East> 2790 Vs. BaseBall <Japan set 2>
+1312 Kung-Fu Taikun <alt> 2791 Vs. Battle City
+1313 Kuri Kinton <World, prototype?> 2792 Vs. Castlevania
+1314 Kuri Kinton<Japan> 2793 VS. Clu Land
+1315 Kuri Kinton<US> 2794 Vs. Dr. Mario
+1316 Kuri Kinton<World> 2795 Vs. Duck Hunt
+1317 Kyohkoh-Toppa <Japan> 2796 VS. Excitebike
+1318 Kyros 2797 Vs. Excitebike <Japan>
+1319 Kyros No Yakata <Japan> 2798 Vs. Freedom Force
+1320 Kyukyoku Tiger <Japan> 2799 Vs. Gradius
+1321 Kyukyoku Tiger 2 <Japan> 2800 Vs. Gumshoe
+1322 Kyuukai Douchuuki <Japan new version> 2801 Vs. Hogan's Alley
+1323 Kyuukai Douchuuki <Japan old version> 2802 Vs. Ice Climber
+1324 Labyrinth Runner 2803 Vs. Ice Climber <Japan>
+1325 Labyrinth Runner<Japan> 2804 Vs. Ice Climber Dual <Japan>
+1326 Lady Bug 2805 Vs. Mach Rider
+1327 Lady Bug <bootleg> 2806 Vs. Mach Rider<Japan>
+1328 Lady Frog 2807 VS. Mighty Bomb Jack
+1329 Ladybug <bootleg on Galaxian hardware> 2808 Vs. Pinball
+1330 Land Maker <Japan> 2809 Vs. Pinball <Japan>
+1331 Laser 2810 Vs. Raid on Bungeling Bay <Japan>
+1332 Lasso 2811 Vs. Slalom
+1333 Last Duel 2812 Vs. Soccer
+1334 Last Duel <US set 2> 2813 Vs. Star Luster
+1335 Last Duel<US set 1> 2814 Vs. Stroke & Golf
+1336 Last Fortress - Toride 2815 Vs. Stroke &amp
+1337 Last Mission <Japan> 2816 Vs. Stroke &amp
+1338 Last Mission <US revision 5> 2817 Vs. Super Mario Bros
+1339 Last Mission <US revision 6> 2818 Vs. Super SkyKid
+1340 Last Resort 2819 Vs. Super Xevious
+1341 Last Striker / Kyuukyoku no Striker 2820 Vs. Tennis
+1342 Lazer Command 2821 Vs. Tennis <Japan>
+1343 Le Bagnard <set 1> 2822 Vs. The Goonies
+1344 Le Bagnard <set 2> 2823 Vs. Top Gun
+1345 League Bowling 2824 Vs. Wrecking Crew
+1346 Led Storm <US> 2825 Vulcan Venture
+1347 Legend 2826 Vulgus <Japan?>
+1348 Legend of Hero Tonma 2827 Vulgus <set 1>
+1349 Legend of Makai<World> 2828 Vulgus <set 2>
+1350 Legend of Success Joe / Ashitano Joe Densetsu 2829 Wacko
+1351 Legendary Wings <US set 1> 2830 Wai Wai Jockey Gate-In!
+1352 Legendary Wings <US set 2> 2831 Waku Waku 7
+1353 Lemmings <US Prototype> 2832 Wally wo Sagase! <rev A, Japan>
+1354 Leprechaun 2833 Wally wo Sagase! <rev B, Japan>
+1355 Leprechaun <Pacific Polytechnical license> 2834 Wanted
+1356 Lethal Crash Race <set 1> 2835 War of Aero - Project MEIOU
+1357 Lethal Justice 2836 War of the Bugs or Monsterous Manouvers in a Mushroom Maze
+1358 Lethal Thunder<World> 2837 War of the Worlds
+1359 Levers 2838 Wardner no Mori<Japan>
+1360 Libble Rabble 2839 Wardner no Mori<World>
+1361 Liberation 2840 Warlords
+1362 Liberation <bootleg> 2841 Warp & warp
+1363 Liberator <set 1> 2842 Warp Warp <Rock-ola set 1>
+1364 Lightbringer <Japan> 2843 Warp Warp <Rock-ola set 2>
+1365 Lightning Fighters <US> 2844 Warrior
+1366 Lightning Fighters <US> 2845 Warrior Blade - Rastan Saga Episode III <Japan>
+1367 Limited Edition Hang-On 2846 Warriors of Fate <US 921031>
+1368 Liquid Kids <US> 2847 Warriors of Fate <World>
+1369 Liquid Kids <World> 2848 Water Ski
+1370 Lizard Wizard 2849 Western Express <bootleg set 1>
+1371 Lock'n'Chase 2850 Western Express <bootleg set 2>
+1372 Loco-Motion 2851 Western Express <World?>
+1373 Lode Runner 2852 Whizz
+1374 Lode Runner - The Dig Fight <ver. B> <Japan> 2853 Wild Fang
+1375 Lode Runner <set 2> 2854 Wild West C.O.W.-Boys of Moo Mesa <US version UA>
+1376 Lode Runner II 2855 Wild West C.O.W.-Boys of Moo Mesa <World version EA>
+1377 Lode Runner III 2856 Willow <Japan, English>
+1378 Lode Runner III - Majin No Fukkatsu 2857 Willow <Japan, English>
+1379 Lode Runner IV 2858 Willow <Japan, Japanese>
+1380 Logic Pro <Japan> 2859 Windjammers / Flying Power Disc
+1381 Logic Pro 2 <Japan> 2860 Wiping
+1382 Looper 2861 Wise Guy
+1383 Looping <set 1> 2862 Wits
+1384 Looping <set 2> 2863 Wiz
+1385 Lost Tomb <easy> 2864 Wiz <Taito>
+1386 Lost Tomb <hard> 2865 Wiz Warz <prototype>
+1387 Lost Worlds <Japan> 2866 Wizard Fire
+1388 Lot Lot 2867 Wizard of Wor
+1389 Lunar Battle <prototype, earlier> 2868 Wonder 3 <Japan 910520>
+1390 Lunar Battle <prototype, later> 2869 Wonder boy
+1391 Lunar Lander <rev 1> 2870 Wonder Boy <set 2>
+1392 Lunar Lander <rev 2> 2871 Wonder Boy <set 3>
+1393 Lunar Rescue 2872 Wonder Boy Deluxe
+1394 Macho Mouse 2873 Wonder Boy III - Monster Lair <set 3, World, System 16B>
+1395 Mad Alien 2874 Wonder Boy III - Monster Lair <set 4, Japan, System 16B>
+1396 Mad Gear <Japan> 2875 Wonder Boy III<set 1>
+1397 Mad Gear <US> 2876 Wonder Boy in Monster Land <Japan New Ver.>
+1398 Mad Motor 2877 Wonder Planet <Japan>
+1399 Mad Planets 2878 Woodpecker <set 1>
+1400 Mad Planets <UK> 2879 World Class Bowling <v1.66>
+1401 Mad Shark 2880 World Court <Japan>
+1402 Mag Max 2881 World Grand Prix <US>
+1403 Magic Brush 2882 World Heroes
+1404 Magic Bubble 2883 World Heroes <set 2>
+1405 Magic Sword - Heroic Fantasy <US 900725> 2884 World Heroes 2
+1406 Magic Sword - Heroic Fantasy <World 900623> 2885 World Heroes 2 Jet
+1407 Magic Sword - Heroic Fantasy <World> 2886 World Heroes Perfect
+1408 Magic Sword <Japan 900623> 2887 World Soccer Finals
+1409 Magic Worm <bootleg> 2888 World Stadium <Japan>
+1410 Magical Cat Adventure 2889 World Stadium '89 <Japan>
+1411 Magical Crystals <World> 2890 World Stadium '90 <Japan>
+1412 Magical Crystals<Japan> 2891 World Wars <Japan>
+1413 Magical Drop II 2892 Wrestle War
+1414 Magical Drop III 2893 Wrestle War <set 1, Japan>
+1415 Magician Lord <set 1> 2894 Wrestle War <set 2, World>
+1416 Magician Lord <set 2> 2895 WWF Superstars <US>
+1417 Mahou Daisakusen <Japan> 2896 WWF Superstars <US>
+1418 Main Event <1984> 2897 WWF WrestleFest <Japan>
+1419 Main Stadium <Japan> 2898 WWF WrestleFest <US bootleg>
+1420 Majestic Twelve - The Space Invaders Part IV <Japan> 2899 WWF WrestleFest <US set 1>
+1421 Major Havoc <rev 3> 2900 WWF WrestleFest <US Tecmo>
+1422 Makai Densetsu<Japan> 2901 WWF: Wrestlemania <rev 1.30 08/10/95>
+1423 Makai-Mura <Japan Revision G> 2902 X Multiply <Japan>
+1424 Makai-Mura<Japan Revision C> 2903 Xain'd Sleena
+1425 Makai-Mura<Japan> 2904 Xain'd Sleena <bootleg>
+1426 Make Trax <set 1> 2905 Xenophobe
+1427 Make Trax <set 2> 2906 XESS - The New Revolution <SemiCom 3-in-1>
+1428 Makyou Senshi <Japan> 2907 Xevios
+1429 Manhattan 24 Bunsyo<Japan> 2908 Xevious <Namco>
+1430 Mania Challenge <set 1> 2909 Xexex <Japan>
+1431 Mania Challenge <set 2> 2910 Xexex <World>
+1432 Maniac Square <prototype> 2911 X-Men
+1433 Maniac Square <unprotected> 2912 X-MEN
+1434 Mappy <Japan> 2913 X-Men <US 4 Players>
+1435 Mappy<US> 2914 X-Men Vs. Street Fighter
+1436 Marble Madness <set 1> 2915 X-Men Vs. Street Fighter <Euro 96010>
+1437 Marble Madness <set 2> 2916 X-Men: Children of the Atom
+1438 Marble Madness <set 3> 2917 X-Men: Children of the Atom <US 950105>
+1439 Marble Madness <set 4> 2918 Xor World <prototype>
+1440 Marchen Maze <Japan> 2919 XX Mission
+1441 Marine Boy 2920 Xybots <French, rev 3>
+1442 Mario Bros. <Japan> 2921 Xybots <German, rev 3>
+1443 Mario Bros. <US> 2922 Xybots <rev 2>
+1444 Markham 2923 Xyonix
+1445 Mars 2924 Yam! Yam!?
+1446 Mars Matrix 2925 Yamato <US>
+1447 Marvel Land <Japan> 2926 Yamato <World?>
+1448 Marvel Land <US> 2927 Yankee DO!
+1449 Marvel Super Heroes <951024> 2928 Yes/No Sinri Tokimeki Chart
+1450 Marvel Super Heroes <US 951024> 2929 Yie Ar Kung-Fu <set 2>
+1451 Marvel Super Heroes Vs. Street Fighter <Japan 970707> 2930 Yie Ar Kung-Fu<set 1>
+1452 Marvel Super Heroes Vs. Street Fighter <US 970827> 2931 Yokai Douchuuki <Japan old version>
+1453 Marvel Vs. Capcom: Clash of Super Heroes <Japan 980112> 2932 Yokai Douchuuki<Japan new version>
+1454 Marvel Vs. Capcom: Clash of Super Heroes <Japan 980123> 2933 Youjyuden<Japan>
+1455 Marvel Vs. Capcom: Clash of Super Heroes <US 980123> 2934 Youma Ninpou Chou<Japan>
+1456 Marvel Vs. Capcom: Clash of Super Heroes <US 980123> 2935 Zaviga
+1457 Marvin's Maze 2936 Zaviga <Japan>
+1458 Masao 2937 Zaxxon <set 1>
+1459 Masked Riders Club Battle Race 2938 Zaxxon <set 2>
+1460 Master of Weapon 2939 Zed Blade / Operation Ragnarok
+1461 Mat Mania 2940 Zektor <revision B>
+1462 Match It 2941 Zero Point <set 1>
+1463 Matrimelee 2942 Zero Point <set 2>
+1464 Max RPM 2943 Zero Wing
+1465 Mayday <set 1> 2944 Zig Zag
+1466 Mayday <set 2> 2945 Zig Zag <Dig Dug hardware>
+1467 Mayday <set 3> 2946 Zig Zag <Galaxian hardware, set 2>
+1468 Mayhen 2002 2947 Zing Zing Zip
+1469 Mayjinsen 2 2948 Zintrick / Oshidashi Zentrix <hack / bootleg>
+1470 Maze of flott 2949 Zoar
+1471 Mazinger Z 2950 Zombie Raid <US>
+1472 Mechanized Attack <World> 2951 Zoo Keeper <set 1>
+1473 Mega Blast <World> 2952 Zoom 909
+1474 Mega Blast<Japan> 2953 Zunzunkyou No Yabou <Japan>
+1475 Mega Force 2954 Zupapa!
+1476 Mega Man - The Power Battle 2955 Zwackery
+1477 Mega Man 2: The Power Fighters <US 960708> 2956 Zzyzzyxx <set 1>
+1478 Mega Twins <World> 2957 Zzyzzyxx <set 2>
+1479 Mega Zone <Interlogic + Kosuka>
