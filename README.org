@@ -1,0 +1,3 @@
+# Primearcades game search tool
+
+This is a tool for searching through the [[https://primearcades.com/product/3016-games-in-1-four-player-upright/][PrimeArcades Games on the 4 Player Cabinet]].
